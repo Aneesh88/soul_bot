@@ -1,3 +1,0 @@
-Entry: 2025-07-08 10:27:00, Exit: 2025-07-08 12:50:00, Entry Level: 57394.00, Exit Level: 57337.80, Result: LOSS, P/L: -56.20
-Entry: 2025-07-08 10:28:00, Exit: 2025-07-08 12:50:00, Entry Level: 57398.00, Exit Level: 57337.80, Result: LOSS, P/L: -60.20
-Entry: 2025-07-08 10:44:00, Exit: 2025-07-08 12:50:00, Entry Level: 57414.40, Exit Level: 57337.80, Result: LOSS, P/L: -76.60
