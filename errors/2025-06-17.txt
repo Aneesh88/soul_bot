@@ -1,0 +1,1032 @@
+2025-06-17 08:45:30,625 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-17 08:45:32,710 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 08:48:15,249 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-17 08:48:15,305 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:12:00,857 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:12:01,825 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-17 09:13:01,387 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-17 09:14:00,972 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-17 09:15:00,520 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-17 09:20:02,636 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:04,695 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:04,931 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:05,495 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:06,570 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:07,111 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:07,353 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:07,930 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:08,183 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:08,768 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:09,038 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:09,594 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:09,862 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:10,395 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:10,655 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:11,226 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:11,513 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:12,084 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:12,358 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:12,925 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:14,011 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:14,603 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:14,872 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:15,427 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:15,686 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:16,284 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:16,569 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:17,140 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:17,461 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:18,045 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:18,310 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:18,878 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:19,132 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:19,700 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:20,000 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:20,572 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:20,830 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:21,407 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:21,640 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:22,182 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:22,399 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:22,974 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:23,983 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:24,550 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:24,847 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:25,431 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:25,698 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:26,249 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:27,248 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:27,787 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:28,092 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:28,661 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:28,918 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:29,481 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:29,742 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:30,313 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:30,565 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:31,138 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:31,435 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:32,000 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:32,222 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:32,793 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:33,031 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:33,563 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:33,851 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:34,470 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:34,748 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:35,309 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:35,569 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:36,122 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:36,386 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:36,959 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:37,980 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:38,535 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:38,781 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:39,345 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:39,610 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:40,168 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:40,422 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:40,972 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:41,998 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:42,570 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:42,808 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:43,371 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:43,627 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:44,184 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:44,440 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:44,990 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:48,345 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:48,918 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:49,486 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:50,056 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:51,201 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:51,781 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:52,078 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:52,631 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:52,890 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:54,317 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:54,569 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:55,159 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:55,685 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:56,258 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:56,511 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:57,055 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:57,329 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:57,910 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:58,160 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:58,701 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:58,948 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:20:59,512 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:20:59,765 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:00,338 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:00,585 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:01,117 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:01,367 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:01,910 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:02,138 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:02,718 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:02,971 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:03,550 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:03,820 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:04,401 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:04,714 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:05,260 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:05,524 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:06,089 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:06,359 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:06,885 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:07,142 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:07,684 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:07,986 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:08,544 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:08,788 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:09,366 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:09,644 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:10,226 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:10,489 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:11,052 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:11,296 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:11,867 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:12,094 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:12,644 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:12,883 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:13,451 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:13,711 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:14,286 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:14,538 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:15,107 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:15,347 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:15,923 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:16,205 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:16,752 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:17,000 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:17,571 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:17,835 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:18,424 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:18,703 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:19,253 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:19,469 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:20,047 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:20,353 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:20,913 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:21,233 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:21,788 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:22,061 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:22,635 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:22,884 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:23,462 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:23,714 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:24,281 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:24,556 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:25,116 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:25,366 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:25,885 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:26,151 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:26,758 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:27,030 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:27,575 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:27,787 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:28,345 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:28,579 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:29,129 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:29,439 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:30,022 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:30,242 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:30,834 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:31,097 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:31,677 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:31,977 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:32,538 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:32,778 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:33,346 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:34,427 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:35,012 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:35,289 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:35,867 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:36,208 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:36,784 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:37,038 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:37,598 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:37,910 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:38,473 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:38,777 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:39,352 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:39,656 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:40,222 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:40,475 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:41,044 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:41,295 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:41,851 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:42,870 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:43,447 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:43,678 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:44,226 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:44,483 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:45,011 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:45,276 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:45,803 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:46,026 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:46,591 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:46,803 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:47,362 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:47,584 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:48,144 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:48,419 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:48,993 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:49,292 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:49,864 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:50,137 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:50,683 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:50,963 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:51,503 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:51,724 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:52,301 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:52,532 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:53,112 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:53,359 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:53,917 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:54,164 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:54,700 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:54,965 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:55,514 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:55,747 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:56,321 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:56,580 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:57,123 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:57,361 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:57,926 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:58,150 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:58,728 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:58,986 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:21:59,539 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:21:59,801 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:00,377 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:00,656 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:01,227 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:01,480 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:02,017 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:02,966 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:03,523 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:03,767 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:04,332 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:04,567 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:05,135 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:05,421 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:06,015 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:06,296 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:06,855 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:07,138 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:07,728 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:07,953 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:08,525 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:09,567 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:10,158 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:10,404 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:10,984 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:11,233 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:11,800 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:12,087 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:12,640 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:12,941 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:13,492 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:13,776 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:14,326 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:14,584 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:15,123 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:15,356 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:15,901 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:16,158 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:16,718 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:16,975 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:17,543 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:17,785 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:18,392 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:18,639 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:19,219 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:19,511 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:20,074 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:20,325 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:20,903 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:21,237 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:21,790 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:22,029 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:22,607 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:22,895 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:23,453 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:23,715 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:24,287 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:24,610 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:25,182 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:25,438 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:26,009 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:26,269 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:26,852 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:27,147 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:27,740 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:27,995 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:28,570 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:29,585 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:30,155 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:30,454 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:31,000 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:31,232 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:31,808 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:32,041 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:32,595 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:32,859 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:33,440 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:33,706 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:34,279 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:34,525 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:35,090 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:35,398 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:35,958 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:36,200 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:36,756 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:37,011 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:37,594 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:37,857 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:38,389 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:38,666 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:39,224 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:39,502 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:40,081 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:40,321 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:40,888 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:41,183 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:41,733 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:41,971 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:42,509 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:42,819 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:43,376 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:43,674 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:44,232 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:44,503 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:45,075 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:45,330 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:45,909 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:46,152 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:46,706 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:46,954 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:47,544 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:47,803 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:48,367 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:48,598 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:49,154 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:49,406 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:49,981 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:50,245 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:50,837 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:51,090 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:51,665 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:51,913 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:52,502 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:52,766 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:53,322 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:53,553 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:54,120 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:54,374 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:54,954 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:55,199 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:55,784 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:56,025 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:56,570 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:56,843 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:57,403 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:57,685 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:58,236 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:58,488 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:59,068 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:22:59,366 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:22:59,957 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:00,214 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:00,771 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:01,003 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:01,541 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:01,774 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:02,336 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:02,573 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:03,148 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:03,412 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:03,945 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:04,177 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:04,741 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:05,014 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:05,589 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:05,830 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:06,379 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:06,637 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:07,184 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:07,437 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:07,987 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:08,246 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:08,816 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:09,109 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:09,669 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:09,966 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:10,556 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:10,813 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:11,390 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:11,650 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:12,220 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:12,468 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:13,039 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:13,295 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:13,870 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:14,161 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:14,723 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:14,987 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:15,575 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:15,847 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:16,425 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:16,679 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:17,263 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:17,571 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:18,120 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:18,407 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:18,966 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:19,206 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:19,759 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:20,054 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:20,622 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:20,914 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:21,484 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:21,730 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:22,319 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:22,537 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:23,072 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:23,369 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:23,932 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:24,173 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:24,720 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:24,936 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:25,488 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:25,762 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:26,313 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:26,568 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:27,130 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:27,425 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:27,999 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:28,217 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:28,803 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:29,109 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:29,703 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:30,007 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:30,591 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:30,881 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:31,430 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:31,643 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:32,186 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:32,424 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:32,955 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:33,183 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:33,736 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:34,016 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:34,591 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:34,912 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:35,488 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:35,768 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:36,348 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:36,650 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:37,207 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:37,490 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:38,060 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:38,351 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:38,935 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:39,185 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:39,755 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:40,010 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:40,571 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:40,828 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:41,404 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:41,725 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:42,283 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:42,545 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:43,102 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:43,346 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:43,912 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:44,156 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:44,739 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:44,979 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:45,536 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:45,791 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:46,340 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:46,587 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:47,174 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:47,438 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:48,022 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:48,302 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:48,889 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:49,156 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:49,739 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:50,007 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:50,555 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:50,825 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:51,386 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:51,629 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:52,162 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:52,411 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:52,946 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:54,036 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:54,622 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:54,937 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:55,513 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:55,788 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:56,349 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:56,603 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:57,171 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:57,418 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:57,979 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:58,275 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:23:59,572 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:23:59,826 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:00,398 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:00,642 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:01,212 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:01,451 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:02,033 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:02,261 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:02,797 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:03,688 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:04,241 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:04,547 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:05,825 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:06,083 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:06,649 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:06,937 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:07,958 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:08,214 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:08,749 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:09,023 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:09,562 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:09,823 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:10,404 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:10,647 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:11,237 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:11,508 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:12,077 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:12,324 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:12,908 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:13,201 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:13,750 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:14,806 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:15,372 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:15,613 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:16,170 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:16,448 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:17,024 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:17,258 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:17,815 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:18,061 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:18,623 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:18,867 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:19,448 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:19,669 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:20,227 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:20,479 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:21,057 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:21,354 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:21,939 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:22,169 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:22,715 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:23,039 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:23,578 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:23,831 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:24,393 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:24,655 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:25,221 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:25,465 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:25,984 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:26,257 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:26,831 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:27,079 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:27,641 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:27,894 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:28,481 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:28,730 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:29,285 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:29,554 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:30,115 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:30,347 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:30,921 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:31,212 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:31,785 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:32,065 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:32,606 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:32,849 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:33,436 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:33,658 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:34,218 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:34,460 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:35,015 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:35,250 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:35,818 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:36,076 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:36,597 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:36,834 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:37,385 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:37,660 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:38,213 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:38,494 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:39,045 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:39,279 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:39,845 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:40,117 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:40,710 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:40,964 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:41,550 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:41,845 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:42,393 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:42,704 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:43,270 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:43,516 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:44,094 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:44,357 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:44,915 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:45,895 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:46,437 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:46,707 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:47,295 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:47,571 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:48,141 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:49,129 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:49,712 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:49,970 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:50,520 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:50,780 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:51,348 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:51,621 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:52,191 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:52,437 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:52,998 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:53,317 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:53,897 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:54,171 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:54,749 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:55,036 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:55,604 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:55,853 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:56,400 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:56,650 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:57,196 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:57,536 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:58,112 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:58,358 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:58,949 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:24:59,257 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:24:59,841 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:00,075 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:00,610 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:00,848 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:01,405 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:01,650 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:02,232 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:02,538 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:03,072 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:03,319 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:03,890 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:04,147 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:04,714 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:04,955 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:05,485 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:05,751 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:06,334 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:06,576 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:07,120 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:07,355 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:07,906 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:08,154 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:08,709 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:08,946 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:09,532 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:09,807 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:10,369 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:10,615 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:11,168 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:11,406 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:11,960 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:12,204 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:12,753 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:13,008 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:13,579 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:14,564 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:15,126 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:15,370 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:15,951 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:16,941 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:17,509 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:17,774 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:18,300 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:18,558 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:19,096 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:19,359 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:19,935 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:20,263 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:20,845 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:21,125 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:21,668 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:22,034 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:22,609 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:22,889 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:23,476 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:23,734 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:24,288 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:24,621 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:25,174 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:26,293 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:26,838 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:27,090 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:27,649 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:27,946 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:28,504 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:28,796 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:29,362 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:29,649 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:30,202 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:30,466 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:31,042 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:31,286 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:31,822 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:32,065 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:32,624 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:32,895 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:33,439 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:33,703 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:34,259 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:34,510 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:35,070 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:35,360 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:35,928 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:36,207 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:36,776 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:37,075 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:37,643 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:38,754 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:39,317 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:39,574 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:40,129 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:40,382 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:40,951 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:41,285 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:41,870 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:42,149 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:42,714 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:42,976 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:43,515 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:43,795 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:44,356 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:44,575 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:45,158 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:45,496 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:46,026 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:46,274 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:46,871 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:47,129 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:47,711 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:47,967 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:48,517 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:48,796 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:49,356 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:49,593 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:50,153 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:50,389 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:50,937 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:51,182 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:51,740 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:52,024 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:52,585 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:52,854 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:53,428 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:53,699 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:54,251 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:54,506 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:55,075 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:55,385 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:55,960 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:56,205 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:56,765 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:57,011 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:57,568 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:57,876 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:25:58,447 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:25:59,555 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:00,093 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:00,361 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:00,942 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:01,887 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:02,438 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:02,738 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:03,294 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:03,551 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:04,131 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:04,431 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:04,976 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:05,239 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:05,797 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:06,056 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:06,661 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:06,924 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:07,474 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:07,742 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:08,297 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:08,549 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:09,127 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:09,379 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:09,965 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:10,264 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:10,825 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:11,101 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:11,683 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:11,986 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:12,524 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:12,818 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:13,375 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:13,624 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:14,174 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:14,429 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:15,008 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:15,262 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:15,824 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:16,154 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:21,160 [ERROR] telegram: Failed to send Telegram message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7325593988:AAGEeA3L01rmfYqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9D%8C+ENTRY+FAILED+at+2024-01-30+10%3A12%3A00 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x105f32990>, 'Connection to api.telegram.org timed out. (connect timeout=5)'))
+2025-06-17 09:26:21,426 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:22,001 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:22,318 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:22,916 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:23,192 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:23,769 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:24,029 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:24,609 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:24,878 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:25,452 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:25,757 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:26,348 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:26,612 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:27,182 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:27,423 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:28,000 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:28,243 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:28,807 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:29,058 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:29,614 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:29,861 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:30,397 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:30,670 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:31,230 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:31,479 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:32,068 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:32,294 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:32,870 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:33,178 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:33,742 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:34,052 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:34,630 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:34,846 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:35,413 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:35,674 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:36,227 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:36,479 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:37,049 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:37,291 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:37,860 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:38,116 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:38,678 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:39,669 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:40,247 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:40,495 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:41,082 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:41,350 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:41,917 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:42,154 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:42,702 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:42,957 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:43,510 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:43,749 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:44,303 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:44,572 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:45,126 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:46,099 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:46,668 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:46,929 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:47,458 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:47,736 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:48,332 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:48,568 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:49,135 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:49,448 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:50,025 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:50,263 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:50,800 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:51,039 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:51,602 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:51,879 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:52,411 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:52,717 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:53,300 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:53,555 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:54,142 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:54,447 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:54,996 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:55,290 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:55,869 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:56,117 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:56,656 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:56,937 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:57,502 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:57,802 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:58,352 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:58,636 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:26:59,219 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:26:59,531 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:00,084 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:01,195 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:01,762 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:02,044 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:02,610 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:02,865 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:03,431 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:03,690 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:04,248 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:04,528 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:06,112 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:06,350 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:06,887 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:07,135 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:07,680 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:07,932 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:08,474 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:08,847 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:09,433 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:09,694 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:10,263 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:10,540 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:11,124 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:11,556 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:12,131 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:12,453 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:13,845 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:14,103 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:14,690 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:14,946 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:15,517 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:15,771 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:16,341 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:16,624 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:17,169 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:18,220 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:18,815 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:19,116 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:19,709 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:19,994 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:27:20,565 [ERROR] telegram: Telegram unauthorized (401) – check your TELEGRAM_TOKEN
+2025-06-17 09:27:20,839 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': "Right should be either 'call', 'put', or 'others'."}
+2025-06-17 09:28:52,325 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:28:53,658 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:28:55,092 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:28:56,522 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:28:57,834 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:28:59,156 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:29:00,513 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:29:01,895 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:29:03,331 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:29:04,715 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:29:06,042 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:29:07,425 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:29:08,709 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:29:10,055 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-17 09:37:01,284 [ERROR] trade_manager: entry_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/om_babaji_om/trade_manager.py", line 190, in entry_manager
+    save_live_trades(live_trades)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/aneeshviswanathan/Desktop/om_babaji_om/state_manager.py", line 80, in save_live_trades
+    _atomic_write(TradeConfig.LIVE_TRADES_JSON, state)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aneeshviswanathan/Desktop/om_babaji_om/state_manager.py", line 28, in _atomic_write
+    bak = path + ".bak"
+          ~~~~~^~~~~~~~
+TypeError: unsupported operand type(s) for +: 'PosixPath' and 'str'
+2025-06-17 09:38:01,059 [ERROR] trade_manager: entry_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/om_babaji_om/trade_manager.py", line 190, in entry_manager
+    save_live_trades(live_trades)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/aneeshviswanathan/Desktop/om_babaji_om/state_manager.py", line 80, in save_live_trades
+    _atomic_write(TradeConfig.LIVE_TRADES_JSON, state)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aneeshviswanathan/Desktop/om_babaji_om/state_manager.py", line 28, in _atomic_write
+    bak = path + ".bak"
+          ~~~~~^~~~~~~~
+TypeError: unsupported operand type(s) for +: 'PosixPath' and 'str'
+2025-06-17 09:39:00,981 [ERROR] trade_manager: entry_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/om_babaji_om/trade_manager.py", line 190, in entry_manager
+    save_live_trades(live_trades)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/aneeshviswanathan/Desktop/om_babaji_om/state_manager.py", line 80, in save_live_trades
+    _atomic_write(TradeConfig.LIVE_TRADES_JSON, state)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aneeshviswanathan/Desktop/om_babaji_om/state_manager.py", line 28, in _atomic_write
+    bak = path + ".bak"
+          ~~~~~^~~~~~~~
+TypeError: unsupported operand type(s) for +: 'PosixPath' and 'str'

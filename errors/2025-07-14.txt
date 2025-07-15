@@ -1,0 +1,88 @@
+2025-07-14 08:55:58,099 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 08:57:00,942 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 08:58:00,672 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 08:59:01,226 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:00:01,021 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:01:00,679 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:02:01,519 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:03:01,120 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:04:00,688 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:05:01,287 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:06:00,895 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:07:00,539 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:08:01,250 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:09:00,912 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:10:00,460 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:11:01,013 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:12:00,773 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:13:00,769 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:14:01,076 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 09:15:00,736 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-14 10:16:03,749 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 436, in exit_manager
+    send_exit_notification(record, state['daily_pnl'])
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/telegram.py", line 77, in send_exit_notification
+    f"💡 <b>Confidence:</b> {conf:.2f}\n"
+                            ^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+2025-07-14 10:32:47,688 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 290, in exit_manager
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/db.py", line 17, in get_conn
+sqlite3.OperationalError: unable to open database file
+2025-07-14 10:32:52,697 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 290, in exit_manager
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/db.py", line 17, in get_conn
+sqlite3.OperationalError: unable to open database file
+2025-07-14 11:25:06,993 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 436, in exit_manager
+    send_exit_notification(record, state['daily_pnl'])
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/telegram.py", line 77, in send_exit_notification
+    f"💡 <b>Confidence:</b> {conf:.2f}\n"
+                            ^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+2025-07-14 11:27:02,529 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 436, in exit_manager
+    send_exit_notification(record, state['daily_pnl'])
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/telegram.py", line 77, in send_exit_notification
+    f"💡 <b>Confidence:</b> {conf:.2f}\n"
+                            ^^^^^^^^^^
+TypeError: unsupported format string passed to NoneType.__format__
+2025-07-14 12:09:07,111 [ERROR] trade_manager: Failed to send exit notification: unsupported format string passed to NoneType.__format__
+2025-07-14 12:11:05,503 [ERROR] trade_manager: Failed to send exit notification: unsupported format string passed to NoneType.__format__
+2025-07-14 12:19:08,823 [ERROR] trade_manager: Failed to send exit notification: unsupported format string passed to NoneType.__format__
+2025-07-14 12:40:03,157 [ERROR] trade_manager: entry_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 236, in entry_manager
+    instrument = f"{TradeConfig.SYMBOL_PREFIX}{atm_strike}{('CE' if dirn=='LONG' else 'PE')}"
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TradeConfig' has no attribute 'SYMBOL_PREFIX'
+2025-07-14 12:55:06,084 [ERROR] trade_manager: entry_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 236, in entry_manager
+    if not oid:
+    
+AttributeError: type object 'TradeConfig' has no attribute 'SYMBOL_PREFIX'
+2025-07-14 13:07:04,578 [ERROR] trade_manager: entry_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 244, in entry_manager
+    instrument = f"{TradeConfig.SYMBOL_PREFIX}{atm_strike}{('CE' if dirn=='LONG' else 'PE')}"
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TradeConfig' has no attribute 'SYMBOL_PREFIX'
+2025-07-14 13:39:08,357 [ERROR] trade_manager: entry_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 256, in entry_manager
+    instrument = f"{TradeConfig.SYMBOL_PREFIX}{atm_strike}{('CE' if dirn=='LONG' else 'PE')}"
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'TradeConfig' has no attribute 'SYMBOL_PREFIX'
+2025-07-14 14:53:04,077 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-14 14:53:05,231 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-14 14:53:17,307 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-14 14:53:18,602 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}

@@ -1,0 +1,232 @@
+2025-06-27 08:15:48,466 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-06-27 08:16:01,069 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-06-27 09:23:01,901 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Please enter lots in multiple of defined contract lot.: '}
+2025-06-27 09:27:02,733 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Please enter lots in multiple of defined contract lot.: '}
+2025-06-27 09:28:02,268 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Please enter lots in multiple of defined contract lot.: '}
+2025-06-27 09:31:01,911 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Please enter lots in multiple of defined contract lot.: '}
+2025-06-27 09:42:02,717 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Please enter lots in multiple of defined contract lot.: '}
+2025-06-27 09:47:02,582 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Please enter lots in multiple of defined contract lot.: '}
+2025-06-27 09:55:02,835 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 09:55:07,841 [ERROR] telegram: Failed to send Telegram message: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9D%8C+ENTRY+FAILED+at+2025-06-27+09%3A53%3A00&parse_mode=HTML (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x1114fec10>, 'Connection to api.telegram.org timed out. (connect timeout=5)'))
+2025-06-27 09:56:02,729 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 09:57:03,290 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:12:02,526 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:13:02,272 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:15:02,631 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:16:02,093 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:17:02,452 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:19:02,151 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:20:02,511 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:24:05,148 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:25:02,420 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:26:01,729 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:28:02,114 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:29:02,522 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:30:02,954 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:31:02,372 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:32:01,988 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:33:02,458 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:34:01,919 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:35:02,338 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:36:01,636 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:37:02,114 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:38:02,757 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:39:02,085 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:40:02,793 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:43:01,649 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:44:01,967 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:45:02,374 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:46:02,298 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:47:02,203 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:48:01,843 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:49:02,412 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:50:02,008 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:51:02,341 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:53:01,942 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:54:02,230 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:57:01,712 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 10:59:02,174 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:03:03,825 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:04:02,299 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:05:37,044 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:09:02,294 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:10:01,782 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:11:02,243 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:15:02,300 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:16:02,477 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:17:02,319 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:18:02,023 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:19:04,298 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:20:02,426 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:21:02,471 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:22:02,170 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:23:02,078 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:24:03,419 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:25:02,167 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:26:01,822 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:27:02,347 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:28:01,898 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:29:02,394 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:30:01,898 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:31:02,446 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:32:01,841 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:33:02,358 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:34:02,009 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:35:02,517 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:36:02,053 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:37:02,468 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:38:02,112 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:39:02,525 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:40:02,445 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:41:01,875 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:42:02,329 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:43:01,991 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:45:02,065 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:46:02,372 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:48:02,080 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:49:03,274 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:51:02,161 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:52:02,704 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:53:02,162 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:54:02,643 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:55:02,301 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:56:02,595 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:57:01,929 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:58:02,499 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 11:59:02,472 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:01:02,272 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:02:01,861 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:03:02,374 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:04:03,112 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:06:04,058 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:07:02,998 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:08:02,670 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:09:02,623 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:10:02,363 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:11:02,873 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:12:02,599 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:13:02,984 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:15:04,221 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:16:02,119 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:17:02,904 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:18:02,964 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:19:02,679 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:20:02,748 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:21:02,731 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:22:02,629 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:23:02,763 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:24:02,767 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:25:02,674 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:26:02,527 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:27:02,293 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:28:02,094 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:29:02,987 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:30:02,849 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:31:02,934 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:32:02,912 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:33:02,731 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 12:35:56,878 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:36:02,917 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:37:03,047 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:38:02,912 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:39:02,951 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:40:02,840 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:41:02,565 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:42:03,169 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:43:03,099 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:44:03,695 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:45:02,611 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:46:02,546 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:48:02,469 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:49:02,845 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:50:02,738 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:51:03,133 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:52:02,315 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:53:02,225 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:54:02,179 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:55:02,051 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:58:02,077 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 12:59:03,071 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:00:02,856 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:01:02,713 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:03:01,967 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:04:02,877 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:05:02,737 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:06:02,613 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:07:02,411 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:08:02,328 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:16:02,666 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:35:42,955 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:35:49,268 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:35:55,553 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:36:02,611 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:36:08,886 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:36:15,347 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:36:21,642 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:36:28,249 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:36:34,485 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:36:41,025 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:36:47,382 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om/trade_manager.py", line 305, in exit_manager
+    if not (hit_sl or hit.tp or hit_ema_rev or now_time >= eod):
+                      ^^^
+NameError: name 'hit' is not defined
+2025-06-27 13:36:58,878 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:37:02,867 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-06-27 13:41:02,587 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 13:43:02,296 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 13:46:02,487 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 14:03:02,598 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 14:15:02,949 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-06-27 14:16:02,536 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}

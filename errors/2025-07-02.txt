@@ -1,0 +1,16 @@
+2025-07-02 09:04:26,870 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:05:00,377 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:06:00,843 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:07:01,264 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:08:00,716 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:09:01,172 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:10:00,721 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:11:01,181 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:12:00,638 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:13:01,097 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:14:00,611 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 09:15:01,039 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-02 10:01:02,155 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-02 14:27:03,689 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-02 14:35:01,892 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-02 14:36:02,979 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}

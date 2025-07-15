@@ -1,0 +1,8 @@
+2025-07-10 09:10:00,628 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:10:24,845 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:11:01,501 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:12:01,248 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:13:01,211 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:14:00,831 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:15:01,451 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:16:01,091 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}

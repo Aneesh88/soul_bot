@@ -1,0 +1,1180 @@
+2025-07-10 09:10:00,026 [INFO] pipeline_loop: Starting pipeline loop
+2025-07-10 09:10:00,026 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-07-10 09:10:00,026 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-07-10 09:10:00,026 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-07-10 09:10:00,628 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:10:00,749 [INFO] feature_generator: No new bars to feature.
+2025-07-10 09:10:00,784 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 09:10:20,995 [INFO] __main__: Shutting down trade_bot
+2025-07-10 09:10:24,174 [INFO] pipeline_loop: Starting pipeline loop
+2025-07-10 09:10:24,174 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-07-10 09:10:24,174 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-07-10 09:10:24,174 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-07-10 09:10:24,845 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:10:24,904 [INFO] feature_generator: No new bars to feature.
+2025-07-10 09:10:24,940 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 09:11:01,501 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:11:01,565 [INFO] feature_generator: No new bars to feature.
+2025-07-10 09:11:01,599 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 09:12:01,248 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:12:01,384 [INFO] feature_generator: No new bars to feature.
+2025-07-10 09:12:01,425 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 09:13:01,211 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:13:01,269 [INFO] feature_generator: No new bars to feature.
+2025-07-10 09:13:01,302 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 09:14:00,831 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:14:00,867 [INFO] feature_generator: No new bars to feature.
+2025-07-10 09:14:00,899 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 09:15:01,451 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:15:01,508 [INFO] feature_generator: No new bars to feature.
+2025-07-10 09:15:01,552 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 09:16:01,091 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-10 09:16:01,152 [INFO] feature_generator: No new bars to feature.
+2025-07-10 09:16:01,186 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 09:17:00,998 [INFO] data_fetch: Inserted 2 new bars into SQLite 'bars' table
+2025-07-10 09:17:01,097 [INFO] feature_generator: Inserted 2 new feature rows into SQLite 'features' table
+2025-07-10 09:17:01,097 [INFO] console: ✅ Inserted 2 feature rows
+2025-07-10 09:17:03,828 [INFO] console: ⏱️ [2025-07-10 09:15] 📈 SHORT (Conf: 0.56) | EMA: 🐻
+2025-07-10 09:17:03,828 [INFO] console: ⏱️ [2025-07-10 09:16] 📈 LONG  (Conf: 0.52) | EMA: 🐂
+2025-07-10 09:17:03,828 [INFO] predictor: Inserted 2 new predictions into 'predictions' table
+2025-07-10 09:18:01,566 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:18:01,749 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:18:01,749 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:18:01,788 [INFO] console: ⏱️ [2025-07-10 09:17] 📈 SHORT (Conf: 0.50) | EMA: 🐂
+2025-07-10 09:18:01,788 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:19:01,315 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:19:01,412 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:19:01,412 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:19:01,447 [INFO] console: ⏱️ [2025-07-10 09:18] 📈 LONG  (Conf: 0.52) | EMA: 🐂
+2025-07-10 09:19:01,448 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:20:00,988 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:20:01,086 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:20:01,086 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:20:01,119 [INFO] console: ⏱️ [2025-07-10 09:19] 📈 SHORT (Conf: 0.77) | EMA: 🐂
+2025-07-10 09:20:01,119 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:20:03,696 [INFO] broker_utils: Breeze session initialized successfully
+2025-07-10 09:21:01,036 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:21:01,148 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:21:01,148 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:21:01,181 [INFO] console: ⏱️ [2025-07-10 09:20] 📈 SHORT (Conf: 0.65) | EMA: 🐂
+2025-07-10 09:21:01,181 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:22:00,816 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:22:01,332 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:22:01,332 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:22:01,366 [INFO] console: ⏱️ [2025-07-10 09:21] 📈 LONG  (Conf: 0.60) | EMA: 🐂
+2025-07-10 09:22:01,366 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:23:00,902 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:23:01,004 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:23:01,004 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:23:01,043 [INFO] console: ⏱️ [2025-07-10 09:22] 📈 LONG  (Conf: 0.67) | EMA: 🐂
+2025-07-10 09:23:01,044 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:24:00,843 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:24:00,945 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:24:00,946 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:24:00,978 [INFO] console: ⏱️ [2025-07-10 09:23] 📈 LONG  (Conf: 0.64) | EMA: 🐂
+2025-07-10 09:24:00,979 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:25:01,421 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:25:01,512 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:25:01,512 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:25:01,548 [INFO] console: ⏱️ [2025-07-10 09:24] 📈 LONG  (Conf: 0.52) | EMA: 🐂
+2025-07-10 09:25:01,549 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:26:01,343 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:26:01,458 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:26:01,458 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:26:01,492 [INFO] console: ⏱️ [2025-07-10 09:25] 📈 LONG  (Conf: 0.62) | EMA: 🐂
+2025-07-10 09:26:01,493 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:27:01,023 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:27:01,118 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:27:01,118 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:27:01,154 [INFO] console: ⏱️ [2025-07-10 09:26] 📈 SHORT (Conf: 0.55) | EMA: 🐂
+2025-07-10 09:27:01,154 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:28:00,812 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:28:00,919 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:28:00,919 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:28:00,952 [INFO] console: ⏱️ [2025-07-10 09:27] 📈 SHORT (Conf: 0.60) | EMA: 🐂
+2025-07-10 09:28:00,953 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:29:01,528 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:29:01,629 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:29:01,629 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:29:01,664 [INFO] console: ⏱️ [2025-07-10 09:28] 📈 SHORT (Conf: 0.54) | EMA: 🐂
+2025-07-10 09:29:01,664 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:30:01,267 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:30:01,388 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:30:01,388 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:30:01,427 [INFO] console: ⏱️ [2025-07-10 09:29] 📈 LONG  (Conf: 0.62) | EMA: 🐂
+2025-07-10 09:30:01,427 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:31:00,903 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:31:00,989 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:31:00,989 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:31:01,024 [INFO] console: ⏱️ [2025-07-10 09:30] 📈 LONG  (Conf: 0.58) | EMA: 🐂
+2025-07-10 09:31:01,025 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:32:00,692 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:32:00,800 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:32:00,800 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:32:00,837 [INFO] console: ⏱️ [2025-07-10 09:31] 📈 SHORT (Conf: 0.54) | EMA: 🐂
+2025-07-10 09:32:00,837 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:33:01,328 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:33:01,447 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:33:01,447 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:33:01,482 [INFO] console: ⏱️ [2025-07-10 09:32] 📈 SHORT (Conf: 0.61) | EMA: 🐂
+2025-07-10 09:33:01,483 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:34:01,228 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:34:01,314 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:34:01,314 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:34:01,352 [INFO] console: ⏱️ [2025-07-10 09:33] 📈 SHORT (Conf: 0.61) | EMA: 🐂
+2025-07-10 09:34:01,352 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:35:01,319 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:35:01,437 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:35:01,437 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:35:01,485 [INFO] console: ⏱️ [2025-07-10 09:34] 📈 SHORT (Conf: 0.51) | EMA: 🐂
+2025-07-10 09:35:01,485 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:36:01,086 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:36:01,174 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:36:01,174 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:36:01,208 [INFO] console: ⏱️ [2025-07-10 09:35] 📈 SHORT (Conf: 0.66) | EMA: 🐂
+2025-07-10 09:36:01,208 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:37:00,692 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:37:00,768 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:37:00,768 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:37:00,801 [INFO] console: ⏱️ [2025-07-10 09:36] 📈 SHORT (Conf: 0.68) | EMA: 🐻
+2025-07-10 09:37:00,801 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:38:01,314 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:38:01,414 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:38:01,414 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:38:01,449 [INFO] console: ⏱️ [2025-07-10 09:37] 📈 SHORT (Conf: 0.64) | EMA: 🐻
+2025-07-10 09:38:01,450 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:39:00,984 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:39:01,459 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:39:01,459 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:39:01,493 [INFO] console: ⏱️ [2025-07-10 09:38] 📈 SHORT (Conf: 0.62) | EMA: 🐻
+2025-07-10 09:39:01,493 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:40:01,025 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:40:01,116 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:40:01,116 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:40:01,152 [INFO] console: ⏱️ [2025-07-10 09:39] 📈 SHORT (Conf: 0.63) | EMA: 🐻
+2025-07-10 09:40:01,153 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:41:00,937 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:41:01,040 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:41:01,040 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:41:01,075 [INFO] console: ⏱️ [2025-07-10 09:40] 📈 SHORT (Conf: 0.61) | EMA: 🐻
+2025-07-10 09:41:01,076 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:42:00,639 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:42:01,146 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:42:01,154 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:42:01,214 [INFO] console: ⏱️ [2025-07-10 09:41] 📈 LONG  (Conf: 0.52) | EMA: 🐻
+2025-07-10 09:42:01,214 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:43:00,718 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:43:00,801 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:43:00,801 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:43:00,922 [INFO] console: ⏱️ [2025-07-10 09:42] 📈 LONG  (Conf: 0.64) | EMA: 🐻
+2025-07-10 09:43:00,926 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:44:01,417 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:44:01,510 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:44:01,510 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:44:01,546 [INFO] console: ⏱️ [2025-07-10 09:43] 📈 LONG  (Conf: 0.55) | EMA: 🐻
+2025-07-10 09:44:01,547 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:45:01,188 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:45:01,283 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:45:01,283 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:45:01,319 [INFO] console: ⏱️ [2025-07-10 09:44] 📈 SHORT (Conf: 0.60) | EMA: 🐻
+2025-07-10 09:45:01,319 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:46:01,021 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:46:01,167 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:46:01,168 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:46:01,202 [INFO] console: ⏱️ [2025-07-10 09:45] 📈 SHORT (Conf: 0.52) | EMA: 🐻
+2025-07-10 09:46:01,203 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:47:00,741 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:47:00,821 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:47:00,821 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:47:00,856 [INFO] console: ⏱️ [2025-07-10 09:46] 📈 LONG  (Conf: 0.54) | EMA: 🐻
+2025-07-10 09:47:00,879 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:48:01,352 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:48:01,447 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:48:01,447 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:48:01,483 [INFO] console: ⏱️ [2025-07-10 09:47] 📈 SHORT (Conf: 0.54) | EMA: 🐻
+2025-07-10 09:48:01,484 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:49:00,851 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:49:00,933 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:49:00,933 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:49:00,968 [INFO] console: ⏱️ [2025-07-10 09:48] 📈 SHORT (Conf: 0.60) | EMA: 🐻
+2025-07-10 09:49:00,968 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:50:01,606 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:50:01,706 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:50:01,706 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:50:01,741 [INFO] console: ⏱️ [2025-07-10 09:49] 📈 SHORT (Conf: 0.56) | EMA: 🐻
+2025-07-10 09:50:01,741 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:51:01,263 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:51:01,374 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:51:01,374 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:51:01,409 [INFO] console: ⏱️ [2025-07-10 09:50] 📈 SHORT (Conf: 0.55) | EMA: 🐻
+2025-07-10 09:51:01,410 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:52:00,955 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:52:01,038 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:52:01,038 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:52:01,076 [INFO] console: ⏱️ [2025-07-10 09:51] 📈 SHORT (Conf: 0.63) | EMA: 🐻
+2025-07-10 09:52:01,076 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:53:00,563 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:53:00,710 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:53:00,710 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:53:00,744 [INFO] console: ⏱️ [2025-07-10 09:52] 📈 LONG  (Conf: 0.53) | EMA: 🐻
+2025-07-10 09:53:00,745 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:54:01,345 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:54:01,426 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:54:01,426 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:54:01,461 [INFO] console: ⏱️ [2025-07-10 09:53] 📈 SHORT (Conf: 0.72) | EMA: 🐻
+2025-07-10 09:54:01,461 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:55:00,944 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:55:01,024 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:55:01,024 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:55:01,060 [INFO] console: ⏱️ [2025-07-10 09:54] 📈 SHORT (Conf: 0.61) | EMA: 🐻
+2025-07-10 09:55:01,061 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:56:00,630 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:56:00,731 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:56:00,732 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:56:00,770 [INFO] console: ⏱️ [2025-07-10 09:55] 📈 LONG  (Conf: 0.61) | EMA: 🐻
+2025-07-10 09:56:00,770 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:57:01,344 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:57:01,450 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:57:01,450 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:57:01,484 [INFO] console: ⏱️ [2025-07-10 09:56] 📈 LONG  (Conf: 0.66) | EMA: 🐻
+2025-07-10 09:57:01,485 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:58:01,117 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:58:01,203 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:58:01,203 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:58:01,239 [INFO] console: ⏱️ [2025-07-10 09:57] 📈 LONG  (Conf: 0.59) | EMA: 🐻
+2025-07-10 09:58:01,239 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 09:59:00,831 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 09:59:00,937 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 09:59:00,937 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 09:59:00,972 [INFO] console: ⏱️ [2025-07-10 09:58] 📈 SHORT (Conf: 0.50) | EMA: 🐻
+2025-07-10 09:59:00,972 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:00:01,487 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:00:01,573 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:00:01,574 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:00:01,608 [INFO] console: ⏱️ [2025-07-10 09:59] 📈 SHORT (Conf: 0.54) | EMA: 🐻
+2025-07-10 10:00:01,608 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:01:01,228 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:01:01,371 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:01:01,371 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:01:01,403 [INFO] console: ⏱️ [2025-07-10 10:00] 📈 SHORT (Conf: 0.61) | EMA: 🐻
+2025-07-10 10:01:01,404 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:02:01,178 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:02:01,278 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:02:01,278 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:02:01,311 [INFO] console: ⏱️ [2025-07-10 10:01] 📈 LONG  (Conf: 0.57) | EMA: 🐻
+2025-07-10 10:02:01,312 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:03:00,751 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:03:00,834 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:03:00,834 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:03:00,875 [INFO] console: ⏱️ [2025-07-10 10:02] 📈 LONG  (Conf: 0.61) | EMA: 🐻
+2025-07-10 10:03:00,875 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:04:01,381 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:04:01,465 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:04:01,465 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:04:01,501 [INFO] console: ⏱️ [2025-07-10 10:03] 📈 LONG  (Conf: 0.59) | EMA: 🐻
+2025-07-10 10:04:01,502 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:05:01,061 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:05:01,161 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:05:01,161 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:05:01,195 [INFO] console: ⏱️ [2025-07-10 10:04] 📈 LONG  (Conf: 0.63) | EMA: 🐻
+2025-07-10 10:05:01,196 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:06:00,796 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:06:00,876 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:06:00,876 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:06:00,913 [INFO] console: ⏱️ [2025-07-10 10:05] 📈 LONG  (Conf: 0.51) | EMA: 🐻
+2025-07-10 10:06:00,914 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:07:01,553 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:07:01,657 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:07:01,657 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:07:01,692 [INFO] console: ⏱️ [2025-07-10 10:06] 📈 LONG  (Conf: 0.55) | EMA: 🐻
+2025-07-10 10:07:01,692 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:08:01,248 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:08:01,328 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:08:01,328 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:08:01,362 [INFO] console: ⏱️ [2025-07-10 10:07] 📈 LONG  (Conf: 0.59) | EMA: 🐻
+2025-07-10 10:08:01,363 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:09:00,904 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:09:01,395 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:09:01,395 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:09:01,446 [INFO] console: ⏱️ [2025-07-10 10:08] 📈 SHORT (Conf: 0.66) | EMA: 🐻
+2025-07-10 10:09:01,447 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:10:01,028 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:10:01,117 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:10:01,117 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:10:01,152 [INFO] console: ⏱️ [2025-07-10 10:09] 📈 LONG  (Conf: 0.55) | EMA: 🐻
+2025-07-10 10:10:01,152 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:11:00,709 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:11:00,819 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:11:00,819 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:11:00,854 [INFO] console: ⏱️ [2025-07-10 10:10] 📈 SHORT (Conf: 0.58) | EMA: 🐻
+2025-07-10 10:11:00,854 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:12:01,375 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:12:01,490 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:12:01,490 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:12:01,529 [INFO] console: ⏱️ [2025-07-10 10:11] 📈 LONG  (Conf: 0.66) | EMA: 🐻
+2025-07-10 10:12:01,529 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:13:01,058 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:13:01,138 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:13:01,138 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:13:01,173 [INFO] console: ⏱️ [2025-07-10 10:12] 📈 LONG  (Conf: 0.62) | EMA: 🐻
+2025-07-10 10:13:01,173 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:14:00,829 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:14:01,301 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:14:01,301 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:14:01,335 [INFO] console: ⏱️ [2025-07-10 10:13] 📈 SHORT (Conf: 0.54) | EMA: 🐻
+2025-07-10 10:14:01,336 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:15:00,801 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:15:00,897 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:15:00,897 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:15:00,932 [INFO] console: ⏱️ [2025-07-10 10:14] 📈 LONG  (Conf: 0.63) | EMA: 🐻
+2025-07-10 10:15:00,933 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:16:01,460 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:16:01,552 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:16:01,552 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:16:01,587 [INFO] console: ⏱️ [2025-07-10 10:15] 📈 SHORT (Conf: 0.67) | EMA: 🐻
+2025-07-10 10:16:01,588 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:17:01,017 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:17:01,101 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:17:01,101 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:17:01,256 [INFO] console: ⏱️ [2025-07-10 10:16] 📈 LONG  (Conf: 0.78) | EMA: 🐻
+2025-07-10 10:17:01,257 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:18:01,241 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:18:01,324 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:18:01,324 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:18:01,360 [INFO] console: ⏱️ [2025-07-10 10:17] 📈 LONG  (Conf: 0.67) | EMA: 🐻
+2025-07-10 10:18:01,360 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:19:00,945 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:19:01,431 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:19:01,431 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:19:01,470 [INFO] console: ⏱️ [2025-07-10 10:18] 📈 LONG  (Conf: 0.58) | EMA: 🐻
+2025-07-10 10:19:01,471 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:20:00,989 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:20:01,091 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:20:01,091 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:20:01,126 [INFO] console: ⏱️ [2025-07-10 10:19] 📈 LONG  (Conf: 0.73) | EMA: 🐻
+2025-07-10 10:20:01,127 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:21:00,861 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:21:00,946 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:21:00,946 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:21:00,981 [INFO] console: ⏱️ [2025-07-10 10:20] 📈 LONG  (Conf: 0.77) | EMA: 🐻
+2025-07-10 10:21:00,981 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:22:01,528 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:22:01,622 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:22:01,623 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:22:01,657 [INFO] console: ⏱️ [2025-07-10 10:21] 📈 LONG  (Conf: 0.77) | EMA: 🐻
+2025-07-10 10:22:01,657 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:23:01,211 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:23:01,319 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:23:01,319 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:23:01,353 [INFO] console: ⏱️ [2025-07-10 10:22] 📈 LONG  (Conf: 0.73) | EMA: 🐻
+2025-07-10 10:23:01,354 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:24:00,971 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:24:01,449 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:24:01,449 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:24:01,483 [INFO] console: ⏱️ [2025-07-10 10:23] 📈 LONG  (Conf: 0.71) | EMA: 🐻
+2025-07-10 10:24:01,484 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:25:01,450 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:25:01,532 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:25:01,532 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:25:01,568 [INFO] console: ⏱️ [2025-07-10 10:24] 📈 LONG  (Conf: 0.68) | EMA: 🐻
+2025-07-10 10:25:01,569 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:26:01,437 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:26:01,517 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:26:01,517 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:26:01,553 [INFO] console: ⏱️ [2025-07-10 10:25] 📈 LONG  (Conf: 0.76) | EMA: 🐻
+2025-07-10 10:26:01,553 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:27:00,962 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:27:01,041 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:27:01,041 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:27:01,079 [INFO] console: ⏱️ [2025-07-10 10:26] 📈 LONG  (Conf: 0.77) | EMA: 🐂
+2025-07-10 10:27:01,079 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:28:01,565 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:28:01,643 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:28:01,643 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:28:01,677 [INFO] console: ⏱️ [2025-07-10 10:27] 📈 LONG  (Conf: 0.75) | EMA: 🐂
+2025-07-10 10:28:01,678 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:29:02,174 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:29:02,284 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:29:02,284 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:29:02,319 [INFO] console: ⏱️ [2025-07-10 10:28] 📈 LONG  (Conf: 0.77) | EMA: 🐂
+2025-07-10 10:29:02,319 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:30:01,196 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:30:01,301 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:30:01,301 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:30:01,355 [INFO] console: ⏱️ [2025-07-10 10:29] 📈 LONG  (Conf: 0.80) | EMA: 🐂
+2025-07-10 10:30:01,356 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:31:00,921 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:31:01,410 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:31:01,410 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:31:01,471 [INFO] console: ⏱️ [2025-07-10 10:30] 📈 LONG  (Conf: 0.68) | EMA: 🐂
+2025-07-10 10:31:01,472 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:32:00,910 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:32:01,011 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:32:01,011 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:32:01,046 [INFO] console: ⏱️ [2025-07-10 10:31] 📈 LONG  (Conf: 0.74) | EMA: 🐂
+2025-07-10 10:32:01,047 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:33:00,906 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:33:01,016 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:33:01,016 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:33:01,050 [INFO] console: ⏱️ [2025-07-10 10:32] 📈 LONG  (Conf: 0.79) | EMA: 🐂
+2025-07-10 10:33:01,051 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:34:00,469 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:34:00,551 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:34:00,551 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:34:00,589 [INFO] console: ⏱️ [2025-07-10 10:33] 📈 LONG  (Conf: 0.71) | EMA: 🐂
+2025-07-10 10:34:00,589 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:35:01,239 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:35:01,340 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:35:01,340 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:35:01,375 [INFO] console: ⏱️ [2025-07-10 10:34] 📈 LONG  (Conf: 0.68) | EMA: 🐂
+2025-07-10 10:35:01,375 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:36:00,939 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:36:01,419 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:36:01,427 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:36:01,479 [INFO] console: ⏱️ [2025-07-10 10:35] 📈 LONG  (Conf: 0.75) | EMA: 🐂
+2025-07-10 10:36:01,479 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:37:01,018 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:37:01,123 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:37:01,123 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:37:01,158 [INFO] console: ⏱️ [2025-07-10 10:36] 📈 LONG  (Conf: 0.73) | EMA: 🐂
+2025-07-10 10:37:01,158 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:38:00,966 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:38:01,075 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:38:01,075 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:38:01,109 [INFO] console: ⏱️ [2025-07-10 10:37] 📈 LONG  (Conf: 0.70) | EMA: 🐂
+2025-07-10 10:38:01,110 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:39:00,651 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:39:00,758 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:39:00,758 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:39:00,824 [INFO] console: ⏱️ [2025-07-10 10:38] 📈 LONG  (Conf: 0.64) | EMA: 🐂
+2025-07-10 10:39:00,847 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:40:01,354 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:40:01,459 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:40:01,459 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:40:01,494 [INFO] console: ⏱️ [2025-07-10 10:39] 📈 LONG  (Conf: 0.53) | EMA: 🐂
+2025-07-10 10:40:01,495 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:41:01,064 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:41:01,160 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:41:01,160 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:41:01,195 [INFO] console: ⏱️ [2025-07-10 10:40] 📈 LONG  (Conf: 0.71) | EMA: 🐂
+2025-07-10 10:41:01,195 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:42:00,919 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:42:01,031 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:42:01,031 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:42:01,068 [INFO] console: ⏱️ [2025-07-10 10:41] 📈 LONG  (Conf: 0.77) | EMA: 🐂
+2025-07-10 10:42:01,068 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:43:00,571 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:43:00,679 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:43:00,679 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:43:00,718 [INFO] console: ⏱️ [2025-07-10 10:42] 📈 LONG  (Conf: 0.60) | EMA: 🐂
+2025-07-10 10:43:01,096 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:44:00,561 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:44:00,662 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:44:00,662 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:44:00,702 [INFO] console: ⏱️ [2025-07-10 10:43] 📈 LONG  (Conf: 0.65) | EMA: 🐂
+2025-07-10 10:44:00,702 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:45:01,202 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:45:01,311 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:45:01,311 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:45:01,347 [INFO] console: ⏱️ [2025-07-10 10:44] 📈 LONG  (Conf: 0.67) | EMA: 🐂
+2025-07-10 10:45:01,348 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:46:00,912 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:46:00,995 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:46:00,995 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:46:01,032 [INFO] console: ⏱️ [2025-07-10 10:45] 📈 LONG  (Conf: 0.67) | EMA: 🐂
+2025-07-10 10:46:01,032 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:47:00,601 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:47:01,089 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:47:01,089 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:47:01,130 [INFO] console: ⏱️ [2025-07-10 10:46] 📈 LONG  (Conf: 0.71) | EMA: 🐂
+2025-07-10 10:47:01,131 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:48:00,693 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:48:00,798 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:48:00,798 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:48:00,832 [INFO] console: ⏱️ [2025-07-10 10:47] 📈 LONG  (Conf: 0.64) | EMA: 🐂
+2025-07-10 10:48:00,832 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:49:01,314 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:49:01,413 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:49:01,413 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:49:01,450 [INFO] console: ⏱️ [2025-07-10 10:48] 📈 LONG  (Conf: 0.67) | EMA: 🐂
+2025-07-10 10:49:01,452 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:50:02,116 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:50:02,224 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:50:02,224 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:50:02,259 [INFO] console: ⏱️ [2025-07-10 10:49] 📈 LONG  (Conf: 0.63) | EMA: 🐂
+2025-07-10 10:50:02,259 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:51:00,766 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:51:00,854 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:51:00,854 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:51:00,889 [INFO] console: ⏱️ [2025-07-10 10:50] 📈 LONG  (Conf: 0.70) | EMA: 🐂
+2025-07-10 10:51:00,889 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:52:01,401 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:52:01,499 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:52:01,499 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:52:01,535 [INFO] console: ⏱️ [2025-07-10 10:51] 📈 LONG  (Conf: 0.60) | EMA: 🐂
+2025-07-10 10:52:01,536 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:53:01,105 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:53:01,216 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:53:01,216 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:53:01,344 [INFO] console: ⏱️ [2025-07-10 10:52] 📈 LONG  (Conf: 0.51) | EMA: 🐂
+2025-07-10 10:53:01,345 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:54:00,850 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:54:01,296 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:54:01,337 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:54:01,402 [INFO] console: ⏱️ [2025-07-10 10:53] 📈 LONG  (Conf: 0.64) | EMA: 🐻
+2025-07-10 10:54:01,402 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:55:00,924 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:55:01,027 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:55:01,027 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:55:01,062 [INFO] console: ⏱️ [2025-07-10 10:54] 📈 LONG  (Conf: 0.65) | EMA: 🐻
+2025-07-10 10:55:01,062 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:56:01,002 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:56:01,114 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:56:01,114 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:56:01,147 [INFO] console: ⏱️ [2025-07-10 10:55] 📈 LONG  (Conf: 0.71) | EMA: 🐻
+2025-07-10 10:56:01,148 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:57:00,736 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:57:01,225 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:57:01,233 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:57:01,291 [INFO] console: ⏱️ [2025-07-10 10:56] 📈 LONG  (Conf: 0.76) | EMA: 🐻
+2025-07-10 10:57:01,292 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:58:00,883 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:58:00,970 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:58:00,970 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:58:01,006 [INFO] console: ⏱️ [2025-07-10 10:57] 📈 LONG  (Conf: 0.67) | EMA: 🐻
+2025-07-10 10:58:01,006 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 10:59:00,692 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 10:59:00,804 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 10:59:00,804 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 10:59:00,843 [INFO] console: ⏱️ [2025-07-10 10:58] 📈 LONG  (Conf: 0.70) | EMA: 🐻
+2025-07-10 10:59:00,843 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:00:01,750 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:00:01,857 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:00:01,857 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:00:01,893 [INFO] console: ⏱️ [2025-07-10 10:59] 📈 LONG  (Conf: 0.69) | EMA: 🐻
+2025-07-10 11:00:01,893 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:01:01,321 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:01:01,415 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:01:01,415 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:01:01,450 [INFO] console: ⏱️ [2025-07-10 11:00] 📈 LONG  (Conf: 0.54) | EMA: 🐻
+2025-07-10 11:01:01,451 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:02:00,967 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:02:01,051 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:02:01,051 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:02:01,086 [INFO] console: ⏱️ [2025-07-10 11:01] 📈 LONG  (Conf: 0.63) | EMA: 🐻
+2025-07-10 11:02:01,087 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:03:01,041 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:03:01,186 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:03:01,186 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:03:01,219 [INFO] console: ⏱️ [2025-07-10 11:02] 📈 SHORT (Conf: 0.65) | EMA: 🐻
+2025-07-10 11:03:01,220 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:04:00,933 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:04:01,418 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:04:01,431 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:04:01,491 [INFO] console: ⏱️ [2025-07-10 11:03] 📈 LONG  (Conf: 0.55) | EMA: 🐻
+2025-07-10 11:04:01,491 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:05:01,034 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:05:01,139 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:05:01,139 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:05:01,174 [INFO] console: ⏱️ [2025-07-10 11:04] 📈 LONG  (Conf: 0.59) | EMA: 🐻
+2025-07-10 11:05:01,175 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:06:00,959 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:06:01,067 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:06:01,067 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:06:01,102 [INFO] console: ⏱️ [2025-07-10 11:05] 📈 LONG  (Conf: 0.53) | EMA: 🐻
+2025-07-10 11:06:01,102 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:07:00,676 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:07:01,148 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:07:01,148 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:07:01,207 [INFO] console: ⏱️ [2025-07-10 11:06] 📈 LONG  (Conf: 0.61) | EMA: 🐻
+2025-07-10 11:07:01,208 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:08:00,795 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:08:00,892 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:08:00,892 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:08:00,926 [INFO] console: ⏱️ [2025-07-10 11:07] 📈 LONG  (Conf: 0.71) | EMA: 🐻
+2025-07-10 11:08:00,927 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:09:01,435 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:09:01,543 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:09:01,543 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:09:01,579 [INFO] console: ⏱️ [2025-07-10 11:08] 📈 LONG  (Conf: 0.67) | EMA: 🐻
+2025-07-10 11:09:01,579 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:10:01,171 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:10:01,274 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:10:01,274 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:10:01,312 [INFO] console: ⏱️ [2025-07-10 11:09] 📈 SHORT (Conf: 0.52) | EMA: 🐻
+2025-07-10 11:10:01,312 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:11:01,207 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:11:01,317 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:11:01,317 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:11:01,352 [INFO] console: ⏱️ [2025-07-10 11:10] 📈 LONG  (Conf: 0.73) | EMA: 🐻
+2025-07-10 11:11:01,352 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:12:00,900 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:12:01,009 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:12:01,009 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:12:01,047 [INFO] console: ⏱️ [2025-07-10 11:11] 📈 LONG  (Conf: 0.72) | EMA: 🐻
+2025-07-10 11:12:01,048 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:13:00,853 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:13:00,966 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:13:00,966 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:13:01,002 [INFO] console: ⏱️ [2025-07-10 11:12] 📈 LONG  (Conf: 0.70) | EMA: 🐻
+2025-07-10 11:13:01,002 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:14:00,784 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:14:01,264 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:14:01,264 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:14:01,298 [INFO] console: ⏱️ [2025-07-10 11:13] 📈 LONG  (Conf: 0.62) | EMA: 🐻
+2025-07-10 11:14:01,299 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:15:00,798 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:15:00,908 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:15:00,908 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:15:00,945 [INFO] console: ⏱️ [2025-07-10 11:14] 📈 LONG  (Conf: 0.56) | EMA: 🐻
+2025-07-10 11:15:00,945 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:16:01,525 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:16:01,624 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:16:01,624 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:16:01,659 [INFO] console: ⏱️ [2025-07-10 11:15] 📈 LONG  (Conf: 0.76) | EMA: 🐻
+2025-07-10 11:16:01,660 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:17:01,166 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:17:01,254 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:17:01,254 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:17:01,287 [INFO] console: ⏱️ [2025-07-10 11:16] 📈 LONG  (Conf: 0.62) | EMA: 🐻
+2025-07-10 11:17:01,288 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:18:01,252 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:18:01,334 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:18:01,334 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:18:01,381 [INFO] console: ⏱️ [2025-07-10 11:17] 📈 LONG  (Conf: 0.72) | EMA: 🐻
+2025-07-10 11:18:01,382 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:19:00,940 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:19:01,037 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:19:01,037 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:19:01,074 [INFO] console: ⏱️ [2025-07-10 11:18] 📈 LONG  (Conf: 0.75) | EMA: 🐻
+2025-07-10 11:19:01,075 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:20:00,701 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:20:00,808 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:20:00,808 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:20:00,842 [INFO] console: ⏱️ [2025-07-10 11:19] 📈 LONG  (Conf: 0.80) | EMA: 🐻
+2025-07-10 11:20:00,842 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:21:01,360 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:21:01,462 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:21:01,462 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:21:01,495 [INFO] console: ⏱️ [2025-07-10 11:20] 📈 LONG  (Conf: 0.83) | EMA: 🐻
+2025-07-10 11:21:01,495 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:22:01,262 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:22:01,369 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:22:01,369 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:22:01,405 [INFO] console: ⏱️ [2025-07-10 11:21] 📈 LONG  (Conf: 0.85) | EMA: 🐻
+2025-07-10 11:22:01,405 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:22:02,041 [INFO] console: ⏱️ [2025-07-10 11:20] SKIP LONG — EMA15=False
+2025-07-10 11:23:00,890 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:23:01,006 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:23:01,006 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:23:01,049 [INFO] console: ⏱️ [2025-07-10 11:22] 📈 LONG  (Conf: 0.87) | EMA: 🐻
+2025-07-10 11:23:01,049 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:23:01,371 [INFO] console: ⏱️ [2025-07-10 11:21] SKIP LONG — EMA15=False
+2025-07-10 11:24:00,842 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:24:00,950 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:24:00,950 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:24:00,987 [INFO] console: ⏱️ [2025-07-10 11:23] 📈 LONG  (Conf: 0.70) | EMA: 🐻
+2025-07-10 11:24:00,987 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:24:01,643 [INFO] console: ⏱️ [2025-07-10 11:22] SKIP LONG — EMA15=False
+2025-07-10 11:25:01,495 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:25:01,592 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:25:01,592 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:25:01,627 [INFO] console: ⏱️ [2025-07-10 11:24] 📈 LONG  (Conf: 0.79) | EMA: 🐻
+2025-07-10 11:25:01,628 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:26:01,352 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:26:01,462 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:26:01,463 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:26:01,497 [INFO] console: ⏱️ [2025-07-10 11:25] 📈 LONG  (Conf: 0.76) | EMA: 🐻
+2025-07-10 11:26:01,498 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:27:00,973 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:27:01,079 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:27:01,079 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:27:01,115 [INFO] console: ⏱️ [2025-07-10 11:26] 📈 LONG  (Conf: 0.63) | EMA: 🐻
+2025-07-10 11:27:01,115 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:28:00,924 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:28:01,020 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:28:01,020 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:28:01,158 [INFO] console: ⏱️ [2025-07-10 11:27] 📈 LONG  (Conf: 0.80) | EMA: 🐻
+2025-07-10 11:28:01,159 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:29:00,692 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:29:01,166 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:29:01,166 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:29:01,205 [INFO] console: ⏱️ [2025-07-10 11:28] 📈 LONG  (Conf: 0.78) | EMA: 🐻
+2025-07-10 11:29:01,206 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:29:01,923 [INFO] console: ⏱️ [2025-07-10 11:27] SKIP LONG — EMA15=False
+2025-07-10 11:30:00,768 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:30:00,913 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:30:00,913 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:30:00,961 [INFO] console: ⏱️ [2025-07-10 11:29] 📈 LONG  (Conf: 0.84) | EMA: 🐻
+2025-07-10 11:30:01,441 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:31:00,915 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:31:01,014 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:31:01,014 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:31:01,049 [INFO] console: ⏱️ [2025-07-10 11:30] 📈 LONG  (Conf: 0.75) | EMA: 🐻
+2025-07-10 11:31:01,050 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:31:01,334 [INFO] console: ⏱️ [2025-07-10 11:29] SKIP LONG — EMA15=False
+2025-07-10 11:32:00,807 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:32:00,916 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:32:00,916 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:32:00,959 [INFO] console: ⏱️ [2025-07-10 11:31] 📈 LONG  (Conf: 0.85) | EMA: 🐻
+2025-07-10 11:32:00,959 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:33:01,413 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:33:01,514 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:33:01,514 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:33:01,552 [INFO] console: ⏱️ [2025-07-10 11:32] 📈 LONG  (Conf: 0.75) | EMA: 🐻
+2025-07-10 11:33:01,553 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:33:01,945 [INFO] console: ⏱️ [2025-07-10 11:31] SKIP LONG — EMA15=False
+2025-07-10 11:34:01,406 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:34:01,518 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:34:01,518 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:34:01,553 [INFO] console: ⏱️ [2025-07-10 11:33] 📈 LONG  (Conf: 0.80) | EMA: 🐻
+2025-07-10 11:34:01,554 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:35:01,036 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:35:01,122 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:35:01,122 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:35:01,161 [INFO] console: ⏱️ [2025-07-10 11:34] 📈 LONG  (Conf: 0.76) | EMA: 🐻
+2025-07-10 11:35:01,161 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:36:00,810 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:36:00,965 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:36:00,965 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:36:01,003 [INFO] console: ⏱️ [2025-07-10 11:35] 📈 LONG  (Conf: 0.71) | EMA: 🐻
+2025-07-10 11:36:01,003 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:37:00,514 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:37:01,015 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:37:01,023 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:37:01,079 [INFO] console: ⏱️ [2025-07-10 11:36] 📈 LONG  (Conf: 0.70) | EMA: 🐻
+2025-07-10 11:37:01,079 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:38:00,677 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:38:00,768 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:38:00,768 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:38:00,805 [INFO] console: ⏱️ [2025-07-10 11:37] 📈 LONG  (Conf: 0.75) | EMA: 🐻
+2025-07-10 11:38:00,806 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:39:01,249 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:39:01,339 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:39:01,339 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:39:01,374 [INFO] console: ⏱️ [2025-07-10 11:38] 📈 LONG  (Conf: 0.71) | EMA: 🐻
+2025-07-10 11:39:01,377 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:40:00,884 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:40:00,968 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:40:00,968 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:40:01,006 [INFO] console: ⏱️ [2025-07-10 11:39] 📈 LONG  (Conf: 0.68) | EMA: 🐻
+2025-07-10 11:40:01,006 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:41:00,578 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:41:00,695 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:41:00,695 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:41:00,742 [INFO] console: ⏱️ [2025-07-10 11:40] 📈 LONG  (Conf: 0.77) | EMA: 🐻
+2025-07-10 11:41:01,122 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:42:00,705 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:42:00,817 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:42:00,817 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:42:00,866 [INFO] console: ⏱️ [2025-07-10 11:41] 📈 LONG  (Conf: 0.57) | EMA: 🐻
+2025-07-10 11:42:00,866 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:43:01,474 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:43:01,599 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:43:01,599 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:43:01,643 [INFO] console: ⏱️ [2025-07-10 11:42] 📈 LONG  (Conf: 0.81) | EMA: 🐻
+2025-07-10 11:43:01,644 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:44:01,191 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:44:01,287 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:44:01,287 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:44:01,322 [INFO] console: ⏱️ [2025-07-10 11:43] 📈 LONG  (Conf: 0.65) | EMA: 🐻
+2025-07-10 11:44:01,323 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:44:01,441 [INFO] console: ⏱️ [2025-07-10 11:42] SKIP LONG — EMA15=False
+2025-07-10 11:45:00,858 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:45:01,042 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:45:01,042 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:45:01,079 [INFO] console: ⏱️ [2025-07-10 11:44] 📈 LONG  (Conf: 0.71) | EMA: 🐻
+2025-07-10 11:45:01,080 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:46:00,687 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:46:01,169 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:46:01,204 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:46:01,268 [INFO] console: ⏱️ [2025-07-10 11:45] 📈 LONG  (Conf: 0.64) | EMA: 🐻
+2025-07-10 11:46:01,269 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:47:00,727 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:47:00,816 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:47:00,816 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:47:00,849 [INFO] console: ⏱️ [2025-07-10 11:46] 📈 LONG  (Conf: 0.65) | EMA: 🐻
+2025-07-10 11:47:00,849 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:48:01,339 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:48:01,431 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:48:01,431 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:48:01,467 [INFO] console: ⏱️ [2025-07-10 11:47] 📈 SHORT (Conf: 0.53) | EMA: 🐻
+2025-07-10 11:48:01,468 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:49:00,897 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:49:00,975 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:49:00,975 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:49:01,010 [INFO] console: ⏱️ [2025-07-10 11:48] 📈 LONG  (Conf: 0.71) | EMA: 🐻
+2025-07-10 11:49:01,010 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:50:00,631 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:50:01,113 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:50:01,116 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:50:01,162 [INFO] console: ⏱️ [2025-07-10 11:49] 📈 LONG  (Conf: 0.61) | EMA: 🐻
+2025-07-10 11:50:01,162 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:51:00,667 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:51:00,771 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:51:00,771 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:51:00,805 [INFO] console: ⏱️ [2025-07-10 11:50] 📈 LONG  (Conf: 0.72) | EMA: 🐻
+2025-07-10 11:51:00,806 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:52:01,289 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:52:01,379 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:52:01,379 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:52:01,416 [INFO] console: ⏱️ [2025-07-10 11:51] 📈 LONG  (Conf: 0.79) | EMA: 🐻
+2025-07-10 11:52:01,417 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:53:00,858 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:53:00,940 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:53:00,940 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:53:00,976 [INFO] console: ⏱️ [2025-07-10 11:52] 📈 LONG  (Conf: 0.80) | EMA: 🐻
+2025-07-10 11:53:00,976 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:54:01,505 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:54:01,614 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:54:01,614 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:54:01,649 [INFO] console: ⏱️ [2025-07-10 11:53] 📈 LONG  (Conf: 0.69) | EMA: 🐻
+2025-07-10 11:54:01,649 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:55:01,133 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:55:01,214 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:55:01,214 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:55:01,250 [INFO] console: ⏱️ [2025-07-10 11:54] 📈 LONG  (Conf: 0.61) | EMA: 🐻
+2025-07-10 11:55:01,250 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:56:00,866 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:56:01,342 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:56:01,350 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:56:01,408 [INFO] console: ⏱️ [2025-07-10 11:55] 📈 LONG  (Conf: 0.72) | EMA: 🐻
+2025-07-10 11:56:01,409 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:57:00,914 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:57:01,020 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:57:01,020 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:57:01,056 [INFO] console: ⏱️ [2025-07-10 11:56] 📈 LONG  (Conf: 0.79) | EMA: 🐻
+2025-07-10 11:57:01,057 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:58:01,070 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:58:01,160 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:58:01,160 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:58:01,198 [INFO] console: ⏱️ [2025-07-10 11:57] 📈 LONG  (Conf: 0.80) | EMA: 🐻
+2025-07-10 11:58:01,198 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 11:59:00,800 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 11:59:01,339 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 11:59:01,346 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 11:59:01,401 [INFO] console: ⏱️ [2025-07-10 11:58] 📈 LONG  (Conf: 0.52) | EMA: 🐻
+2025-07-10 11:59:01,401 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:00:00,895 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:00:00,997 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:00:00,997 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:00:01,030 [INFO] console: ⏱️ [2025-07-10 11:59] 📈 LONG  (Conf: 0.54) | EMA: 🐻
+2025-07-10 12:00:01,030 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:01:00,738 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:01:00,847 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:01:00,847 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:01:00,880 [INFO] console: ⏱️ [2025-07-10 12:00] 📈 LONG  (Conf: 0.61) | EMA: 🐻
+2025-07-10 12:01:00,881 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:02:02,529 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:02:02,633 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:02:02,633 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:02:02,668 [INFO] console: ⏱️ [2025-07-10 12:01] 📈 LONG  (Conf: 0.65) | EMA: 🐻
+2025-07-10 12:02:02,669 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:03:01,130 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:03:01,217 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:03:01,217 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:03:01,252 [INFO] console: ⏱️ [2025-07-10 12:02] 📈 LONG  (Conf: 0.63) | EMA: 🐻
+2025-07-10 12:03:01,252 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:04:00,801 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:04:01,332 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:04:01,339 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:04:01,402 [INFO] console: ⏱️ [2025-07-10 12:03] 📈 LONG  (Conf: 0.63) | EMA: 🐻
+2025-07-10 12:04:01,402 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:05:00,898 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:05:00,986 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:05:00,986 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:05:01,022 [INFO] console: ⏱️ [2025-07-10 12:04] 📈 SHORT (Conf: 0.56) | EMA: 🐻
+2025-07-10 12:05:01,023 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:06:00,885 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:06:00,975 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:06:00,975 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:06:01,010 [INFO] console: ⏱️ [2025-07-10 12:05] 📈 LONG  (Conf: 0.73) | EMA: 🐻
+2025-07-10 12:06:01,011 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:07:00,427 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:07:00,510 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:07:00,510 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:07:00,548 [INFO] console: ⏱️ [2025-07-10 12:06] 📈 LONG  (Conf: 0.56) | EMA: 🐻
+2025-07-10 12:07:00,549 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:08:01,359 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:08:01,467 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:08:01,467 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:08:01,503 [INFO] console: ⏱️ [2025-07-10 12:07] 📈 LONG  (Conf: 0.75) | EMA: 🐻
+2025-07-10 12:08:01,504 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:09:00,954 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:09:01,051 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:09:01,051 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:09:01,087 [INFO] console: ⏱️ [2025-07-10 12:08] 📈 LONG  (Conf: 0.59) | EMA: 🐻
+2025-07-10 12:09:01,087 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:10:01,023 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:10:01,198 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:10:01,198 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:10:01,235 [INFO] console: ⏱️ [2025-07-10 12:09] 📈 LONG  (Conf: 0.71) | EMA: 🐻
+2025-07-10 12:10:01,235 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:11:00,753 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:11:00,875 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:11:00,875 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:11:00,917 [INFO] console: ⏱️ [2025-07-10 12:10] 📈 LONG  (Conf: 0.56) | EMA: 🐻
+2025-07-10 12:11:01,295 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:12:00,799 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:12:00,900 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:12:00,900 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:12:00,932 [INFO] console: ⏱️ [2025-07-10 12:11] 📈 LONG  (Conf: 0.79) | EMA: 🐻
+2025-07-10 12:12:00,933 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:13:01,390 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:13:01,478 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:13:01,479 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:13:01,516 [INFO] console: ⏱️ [2025-07-10 12:12] 📈 LONG  (Conf: 0.55) | EMA: 🐻
+2025-07-10 12:13:01,517 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:14:01,153 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:14:01,263 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:14:01,263 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:14:01,311 [INFO] console: ⏱️ [2025-07-10 12:13] 📈 LONG  (Conf: 0.56) | EMA: 🐻
+2025-07-10 12:14:01,311 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:15:00,834 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:15:01,335 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:15:01,343 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:15:01,404 [INFO] console: ⏱️ [2025-07-10 12:14] 📈 LONG  (Conf: 0.76) | EMA: 🐻
+2025-07-10 12:15:01,404 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 12:16:01,232 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 12:16:01,323 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 12:16:01,323 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 12:16:01,358 [INFO] console: ⏱️ [2025-07-10 12:15] 📈 LONG  (Conf: 0.68) | EMA: 🐻
+2025-07-10 12:16:01,358 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-07-10 14:45:05,408 [INFO] pipeline_loop: Starting pipeline loop
+2025-07-10 14:45:05,408 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-07-10 14:45:05,408 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-07-10 14:45:05,408 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-07-10 14:45:05,889 [INFO] data_fetch: Inserted 147 new bars into SQLite 'bars' table
+2025-07-10 14:45:06,072 [INFO] feature_generator: Inserted 147 new feature rows into SQLite 'features' table
+2025-07-10 14:45:06,073 [INFO] console: ✅ Inserted 147 feature rows
+2025-07-10 14:45:06,094 [INFO] predictor: Seeded new_predictions at 2025-07-10 14:44:00
+2025-07-10 14:46:00,578 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:46:00,686 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:46:00,686 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:46:01,390 [INFO] console: ⏱️ [2025-07-10 14:45] 📈 LONG  (Conf: 0.68) | EMA: 🐂
+2025-07-10 14:46:01,390 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:47:00,917 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:47:01,026 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:47:01,026 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:47:01,053 [INFO] console: ⏱️ [2025-07-10 14:46] 📈 LONG  (Conf: 0.71) | EMA: 🐂
+2025-07-10 14:47:01,053 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:48:00,584 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:48:00,668 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:48:00,668 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:48:00,704 [INFO] console: ⏱️ [2025-07-10 14:47] 📈 LONG  (Conf: 0.62) | EMA: 🐂
+2025-07-10 14:48:00,704 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:49:01,379 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:49:01,482 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:49:01,482 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:49:01,514 [INFO] console: ⏱️ [2025-07-10 14:48] 📈 LONG  (Conf: 0.55) | EMA: 🐂
+2025-07-10 14:49:01,514 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:50:01,063 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:50:01,168 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:50:01,169 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:50:01,197 [INFO] console: ⏱️ [2025-07-10 14:49] 📈 LONG  (Conf: 0.51) | EMA: 🐂
+2025-07-10 14:50:01,197 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:51:00,866 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:51:01,035 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:51:01,035 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:51:01,063 [INFO] console: ⏱️ [2025-07-10 14:50] 📈 LONG  (Conf: 0.69) | EMA: 🐂
+2025-07-10 14:51:01,063 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:52:00,724 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:52:00,826 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:52:00,826 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:52:00,858 [INFO] console: ⏱️ [2025-07-10 14:51] 📈 LONG  (Conf: 0.60) | EMA: 🐻
+2025-07-10 14:52:00,858 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:52:06,631 [INFO] __main__: Shutting down trade_bot
+2025-07-10 14:54:01,027 [INFO] pipeline_loop: Starting pipeline loop
+2025-07-10 14:54:01,027 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-07-10 14:54:01,027 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-07-10 14:54:01,027 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-07-10 14:54:01,657 [INFO] data_fetch: Inserted 2 new bars into SQLite 'bars' table
+2025-07-10 14:54:01,828 [INFO] feature_generator: Inserted 2 new feature rows into SQLite 'features' table
+2025-07-10 14:54:01,828 [INFO] console: ✅ Inserted 2 feature rows
+2025-07-10 14:54:02,542 [INFO] console: ⏱️ [2025-07-10 14:52] 📈 LONG  (Conf: 0.55) | EMA: 🐻
+2025-07-10 14:54:02,542 [INFO] console: ⏱️ [2025-07-10 14:53] 📈 LONG  (Conf: 0.71) | EMA: 🐻
+2025-07-10 14:54:02,543 [INFO] predictor: Inserted 2 new predictions into 'new_predictions' table
+2025-07-10 14:55:01,188 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:55:01,294 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:55:01,294 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:55:01,321 [INFO] console: ⏱️ [2025-07-10 14:54] 📈 LONG  (Conf: 0.78) | EMA: 🐻
+2025-07-10 14:55:01,322 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:56:00,905 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:56:01,008 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:56:01,009 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:56:01,038 [INFO] console: ⏱️ [2025-07-10 14:55] 📈 LONG  (Conf: 0.67) | EMA: 🐻
+2025-07-10 14:56:01,038 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:57:00,653 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:57:00,817 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:57:00,817 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:57:00,848 [INFO] console: ⏱️ [2025-07-10 14:56] 📈 LONG  (Conf: 0.54) | EMA: 🐻
+2025-07-10 14:57:00,848 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:58:01,420 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:58:01,528 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:58:01,528 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:58:01,557 [INFO] console: ⏱️ [2025-07-10 14:57] 📈 LONG  (Conf: 0.66) | EMA: 🐻
+2025-07-10 14:58:01,558 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 14:59:01,145 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 14:59:01,257 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 14:59:01,257 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 14:59:01,285 [INFO] console: ⏱️ [2025-07-10 14:58] 📈 LONG  (Conf: 0.68) | EMA: 🐻
+2025-07-10 14:59:01,286 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:00:00,832 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:00:00,939 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:00:00,939 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:00:00,967 [INFO] console: ⏱️ [2025-07-10 14:59] 📈 SHORT (Conf: 0.54) | EMA: 🐻
+2025-07-10 15:00:00,967 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:01:01,561 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:01:01,673 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:01:01,673 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:01:01,700 [INFO] console: ⏱️ [2025-07-10 15:00] 📈 LONG  (Conf: 0.51) | EMA: 🐻
+2025-07-10 15:01:01,700 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:02:01,313 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:02:01,437 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:02:01,437 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:02:01,479 [INFO] console: ⏱️ [2025-07-10 15:01] 📈 LONG  (Conf: 0.65) | EMA: 🐻
+2025-07-10 15:02:01,480 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:03:01,143 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:03:01,237 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:03:01,237 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:03:01,270 [INFO] console: ⏱️ [2025-07-10 15:02] 📈 LONG  (Conf: 0.59) | EMA: 🐻
+2025-07-10 15:03:01,270 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:03:47,019 [INFO] __main__: Shutting down trade_bot
+2025-07-10 15:03:58,432 [INFO] pipeline_loop: Starting pipeline loop
+2025-07-10 15:03:58,432 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-07-10 15:03:58,432 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-07-10 15:03:58,432 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-07-10 15:03:59,251 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:03:59,275 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:04:00,915 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:04:01,030 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:04:01,030 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:04:01,741 [INFO] console: ⏱️ [2025-07-10 15:03] 📈 LONG  (Conf: 0.69) | EMA: 🐻
+2025-07-10 15:04:01,742 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:04:24,849 [INFO] __main__: Shutting down trade_bot
+2025-07-10 15:08:24,085 [INFO] pipeline_loop: Starting pipeline loop
+2025-07-10 15:08:24,086 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-07-10 15:08:24,086 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-07-10 15:08:24,086 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-07-10 15:08:24,744 [INFO] data_fetch: Inserted 4 new bars into SQLite 'bars' table
+2025-07-10 15:08:24,840 [INFO] feature_generator: Inserted 4 new feature rows into SQLite 'features' table
+2025-07-10 15:08:24,840 [INFO] console: ✅ Inserted 4 feature rows
+2025-07-10 15:08:25,405 [INFO] console: ⏱️ [2025-07-10 15:04] 📈 LONG  (Conf: 0.60) | EMA: 🐻
+2025-07-10 15:08:25,405 [INFO] console: ⏱️ [2025-07-10 15:05] 📈 LONG  (Conf: 0.64) | EMA: 🐻
+2025-07-10 15:08:25,406 [INFO] console: ⏱️ [2025-07-10 15:06] 📈 LONG  (Conf: 0.52) | EMA: 🐻
+2025-07-10 15:08:25,406 [INFO] console: ⏱️ [2025-07-10 15:07] 📈 LONG  (Conf: 0.67) | EMA: 🐻
+2025-07-10 15:08:25,406 [INFO] predictor: Inserted 4 new predictions into 'new_predictions' table
+2025-07-10 15:09:00,987 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:09:01,094 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:09:01,094 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:09:01,119 [INFO] console: ⏱️ [2025-07-10 15:08] 📈 LONG  (Conf: 0.75) | EMA: 🐻
+2025-07-10 15:09:01,120 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:10:00,873 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:10:00,978 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:10:00,978 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:10:01,004 [INFO] console: ⏱️ [2025-07-10 15:09] 📈 LONG  (Conf: 0.51) | EMA: 🐻
+2025-07-10 15:10:01,004 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:11:00,571 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:11:00,671 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:11:00,671 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:11:00,697 [INFO] console: ⏱️ [2025-07-10 15:10] 📈 LONG  (Conf: 0.57) | EMA: 🐻
+2025-07-10 15:11:00,698 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:12:01,378 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:12:01,472 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:12:01,473 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:12:01,499 [INFO] console: ⏱️ [2025-07-10 15:11] 📈 LONG  (Conf: 0.72) | EMA: 🐻
+2025-07-10 15:12:01,500 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:13:01,050 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:13:01,157 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:13:01,157 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:13:01,183 [INFO] console: ⏱️ [2025-07-10 15:12] 📈 LONG  (Conf: 0.65) | EMA: 🐻
+2025-07-10 15:13:01,183 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:14:00,853 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:14:00,959 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:14:00,959 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:14:00,984 [INFO] console: ⏱️ [2025-07-10 15:13] 📈 SHORT (Conf: 0.51) | EMA: 🐻
+2025-07-10 15:14:00,985 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:15:01,501 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:15:01,603 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:15:01,603 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:15:01,629 [INFO] console: ⏱️ [2025-07-10 15:14] 📈 LONG  (Conf: 0.69) | EMA: 🐻
+2025-07-10 15:15:01,630 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:16:01,297 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:16:01,389 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:16:01,389 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:16:01,417 [INFO] console: ⏱️ [2025-07-10 15:15] 📈 LONG  (Conf: 0.67) | EMA: 🐻
+2025-07-10 15:16:01,418 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:16:45,268 [INFO] __main__: Shutting down trade_bot
+2025-07-10 15:24:17,519 [INFO] pipeline_loop: Starting pipeline loop
+2025-07-10 15:24:17,519 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-07-10 15:24:17,519 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-07-10 15:24:17,519 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-07-10 15:24:18,102 [INFO] data_fetch: Inserted 8 new bars into SQLite 'bars' table
+2025-07-10 15:24:18,273 [INFO] feature_generator: Inserted 7 new feature rows into SQLite 'features' table
+2025-07-10 15:24:18,273 [INFO] console: ✅ Inserted 7 feature rows
+2025-07-10 15:24:18,987 [INFO] console: ⏱️ [2025-07-10 15:16] 📈 LONG  (Conf: 0.93) | EMA: 🐂
+2025-07-10 15:24:18,987 [INFO] console: ⏱️ [2025-07-10 15:17] 📈 LONG  (Conf: 0.66) | EMA: 🐻
+2025-07-10 15:24:18,987 [INFO] console: ⏱️ [2025-07-10 15:18] 📈 SHORT (Conf: 0.69) | EMA: 🐻
+2025-07-10 15:24:18,987 [INFO] console: ⏱️ [2025-07-10 15:19] 📈 LONG  (Conf: 0.70) | EMA: 🐻
+2025-07-10 15:24:18,987 [INFO] console: ⏱️ [2025-07-10 15:20] 📈 LONG  (Conf: 0.53) | EMA: 🐻
+2025-07-10 15:24:18,987 [INFO] console: ⏱️ [2025-07-10 15:21] 📈 LONG  (Conf: 0.65) | EMA: 🐻
+2025-07-10 15:24:18,987 [INFO] console: ⏱️ [2025-07-10 15:22] 📈 LONG  (Conf: 0.57) | EMA: 🐻
+2025-07-10 15:24:18,987 [INFO] console: ⏱️ [2025-07-10 15:23] 📈 LONG  (Conf: 0.57) | EMA: 🐻
+2025-07-10 15:24:18,987 [INFO] predictor: Inserted 8 new predictions into 'new_predictions' table
+2025-07-10 15:25:01,494 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:25:01,608 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:25:01,608 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:25:01,642 [INFO] console: ⏱️ [2025-07-10 15:24] 📈 LONG  (Conf: 0.73) | EMA: 🐻
+2025-07-10 15:25:01,643 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:26:01,239 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:26:01,344 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:26:01,344 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:26:01,372 [INFO] console: ⏱️ [2025-07-10 15:25] 📈 LONG  (Conf: 0.65) | EMA: 🐻
+2025-07-10 15:26:01,372 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:27:00,901 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:27:01,003 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:27:01,003 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:27:01,030 [INFO] console: ⏱️ [2025-07-10 15:26] 📈 LONG  (Conf: 0.76) | EMA: 🐻
+2025-07-10 15:27:01,030 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:28:00,586 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:28:00,692 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:28:00,692 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:28:00,719 [INFO] console: ⏱️ [2025-07-10 15:27] 📈 LONG  (Conf: 0.77) | EMA: 🐻
+2025-07-10 15:28:00,720 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:29:01,265 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:29:01,369 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:29:01,369 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:29:01,395 [INFO] console: ⏱️ [2025-07-10 15:28] 📈 LONG  (Conf: 0.80) | EMA: 🐻
+2025-07-10 15:29:01,395 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:30:00,929 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-07-10 15:30:01,036 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-07-10 15:30:01,036 [INFO] console: ✅ Inserted 1 feature rows
+2025-07-10 15:30:01,062 [INFO] console: ⏱️ [2025-07-10 15:29] 📈 LONG  (Conf: 0.81) | EMA: 🐻
+2025-07-10 15:30:01,063 [INFO] predictor: Inserted 1 new predictions into 'new_predictions' table
+2025-07-10 15:31:00,778 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:31:00,802 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:32:01,432 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:32:01,472 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:33:01,237 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:33:01,262 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:34:00,749 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:34:00,774 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:35:01,319 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:35:01,344 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:36:00,941 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:36:00,966 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:37:01,575 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:37:01,610 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:38:01,179 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:38:01,204 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:39:00,796 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:39:00,820 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:40:01,661 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:40:01,686 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:41:01,303 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:41:01,326 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:42:01,050 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:42:01,092 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:43:00,714 [INFO] feature_generator: No new bars to feature.
+2025-07-10 15:43:00,739 [INFO] predictor: No new feature rows to predict on.
+2025-07-10 15:43:09,928 [INFO] __main__: Shutting down trade_bot

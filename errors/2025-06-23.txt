@@ -1,0 +1,4 @@
+2025-06-23 08:48:56,349 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-23 08:49:00,915 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-23 09:14:37,201 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-23 09:15:00,822 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}

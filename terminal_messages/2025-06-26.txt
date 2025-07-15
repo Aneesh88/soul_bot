@@ -1,0 +1,2157 @@
+2025-06-26 09:08:22,021 [INFO] pipeline_loop: Starting pipeline loop
+2025-06-26 09:08:22,023 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-06-26 09:08:22,026 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-06-26 09:08:22,028 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-06-26 09:08:22,658 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-06-26 09:08:22,800 [INFO] feature_generator: No new bars to feature.
+2025-06-26 09:08:22,896 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 09:09:01,379 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-06-26 09:09:01,494 [INFO] feature_generator: No new bars to feature.
+2025-06-26 09:09:01,592 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 09:10:01,167 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-06-26 09:10:01,297 [INFO] feature_generator: No new bars to feature.
+2025-06-26 09:10:01,387 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 09:11:00,860 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-06-26 09:11:00,976 [INFO] feature_generator: No new bars to feature.
+2025-06-26 09:11:01,068 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 09:12:00,597 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-06-26 09:12:00,706 [INFO] feature_generator: No new bars to feature.
+2025-06-26 09:12:00,798 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 09:13:01,285 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-06-26 09:13:01,379 [INFO] feature_generator: No new bars to feature.
+2025-06-26 09:13:01,481 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 09:14:01,019 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-06-26 09:14:01,168 [INFO] feature_generator: No new bars to feature.
+2025-06-26 09:14:01,267 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 09:15:00,734 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-06-26 09:15:00,822 [INFO] feature_generator: No new bars to feature.
+2025-06-26 09:15:00,867 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 09:16:01,493 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:16:01,746 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:16:01,746 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:16:03,155 [INFO] console: ⏱️ [2025-06-26 09:15] 📈 Prediction: SHORT (Confidence: 0.62)
+2025-06-26 09:16:03,155 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:17:00,698 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:17:00,842 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:17:00,842 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:17:00,880 [INFO] console: ⏱️ [2025-06-26 09:16] 📈 Prediction: LONG (Confidence: 0.54)
+2025-06-26 09:17:00,880 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:18:01,642 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:18:01,746 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:18:01,746 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:18:01,781 [INFO] console: ⏱️ [2025-06-26 09:17] 📈 Prediction: SHORT (Confidence: 0.51)
+2025-06-26 09:18:01,781 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:19:01,227 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:19:01,334 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:19:01,334 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:19:01,369 [INFO] console: ⏱️ [2025-06-26 09:18] 📈 Prediction: SHORT (Confidence: 0.51)
+2025-06-26 09:19:01,370 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:20:00,802 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:20:00,886 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:20:00,886 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:20:00,919 [INFO] console: ⏱️ [2025-06-26 09:19] 📈 Prediction: LONG (Confidence: 0.52)
+2025-06-26 09:20:00,919 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:20:03,862 [INFO] broker_utils: Breeze session initialized successfully
+2025-06-26 09:21:01,337 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:21:01,423 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:21:01,423 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:21:01,458 [INFO] console: ⏱️ [2025-06-26 09:20] 📈 Prediction: SHORT (Confidence: 0.58)
+2025-06-26 09:21:01,458 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:22:01,364 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:22:01,442 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:22:01,442 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:22:01,478 [INFO] console: ⏱️ [2025-06-26 09:21] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 09:22:01,479 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:23:00,899 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:23:00,983 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:23:00,983 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:23:01,017 [INFO] console: ⏱️ [2025-06-26 09:22] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 09:23:01,018 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:24:00,758 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:24:00,839 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:24:00,839 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:24:00,875 [INFO] console: ⏱️ [2025-06-26 09:23] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 09:24:00,875 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:25:01,293 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:25:01,399 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:25:01,399 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:25:01,446 [INFO] console: ⏱️ [2025-06-26 09:24] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 09:25:01,446 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:26:01,239 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:26:01,321 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:26:01,322 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:26:01,359 [INFO] console: ⏱️ [2025-06-26 09:25] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 09:26:01,359 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:27:00,802 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:27:00,919 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:27:00,919 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:27:00,965 [INFO] console: ⏱️ [2025-06-26 09:26] 📈 Prediction: LONG (Confidence: 0.59)
+2025-06-26 09:27:01,345 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:28:00,810 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:28:00,904 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:28:00,904 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:28:00,942 [INFO] console: ⏱️ [2025-06-26 09:27] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 09:28:00,943 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:29:01,363 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:29:01,458 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:29:01,458 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:29:01,493 [INFO] console: ⏱️ [2025-06-26 09:28] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 09:29:01,493 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:30:01,174 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:30:01,281 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:30:01,281 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:30:01,317 [INFO] console: ⏱️ [2025-06-26 09:29] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 09:30:01,318 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:31:00,979 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:31:01,062 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:31:01,062 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:31:01,095 [INFO] console: ⏱️ [2025-06-26 09:30] 📈 Prediction: SHORT (Confidence: 0.56)
+2025-06-26 09:31:01,096 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:32:00,648 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:32:01,134 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:32:01,134 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:32:01,178 [INFO] console: ⏱️ [2025-06-26 09:31] 📈 Prediction: LONG (Confidence: 0.51)
+2025-06-26 09:32:01,178 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:33:00,646 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:33:00,740 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:33:00,740 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:33:00,787 [INFO] console: ⏱️ [2025-06-26 09:32] 📈 Prediction: LONG (Confidence: 0.51)
+2025-06-26 09:33:00,787 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:34:01,382 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:34:01,511 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:34:01,512 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:34:01,562 [INFO] console: ⏱️ [2025-06-26 09:33] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 09:34:01,562 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:35:00,938 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:35:01,027 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:35:01,027 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:35:01,062 [INFO] console: ⏱️ [2025-06-26 09:34] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 09:35:01,063 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:36:00,657 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:36:00,756 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:36:00,756 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:36:00,792 [INFO] console: ⏱️ [2025-06-26 09:35] 📈 Prediction: SHORT (Confidence: 0.56)
+2025-06-26 09:36:00,793 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:37:01,653 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:37:01,802 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:37:01,802 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:37:01,861 [INFO] console: ⏱️ [2025-06-26 09:36] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 09:37:01,861 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:38:01,415 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:38:01,574 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:38:01,574 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:38:01,647 [INFO] console: ⏱️ [2025-06-26 09:37] 📈 Prediction: SHORT (Confidence: 0.61)
+2025-06-26 09:38:01,648 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:39:02,059 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:39:02,277 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:39:02,277 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:39:02,353 [INFO] console: ⏱️ [2025-06-26 09:38] 📈 Prediction: SHORT (Confidence: 0.52)
+2025-06-26 09:39:02,354 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:40:01,967 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:40:02,169 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:40:02,169 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:40:02,294 [INFO] console: ⏱️ [2025-06-26 09:39] 📈 Prediction: SHORT (Confidence: 0.68)
+2025-06-26 09:40:02,296 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:41:00,864 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:41:01,933 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:41:01,947 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:41:02,185 [INFO] console: ⏱️ [2025-06-26 09:40] 📈 Prediction: SHORT (Confidence: 0.53)
+2025-06-26 09:41:02,186 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:42:00,669 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:42:00,770 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:42:00,770 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:42:00,807 [INFO] console: ⏱️ [2025-06-26 09:41] 📈 Prediction: SHORT (Confidence: 0.53)
+2025-06-26 09:42:00,807 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:43:01,176 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:43:01,259 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:43:01,259 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:43:01,297 [INFO] console: ⏱️ [2025-06-26 09:42] 📈 Prediction: SHORT (Confidence: 0.60)
+2025-06-26 09:43:01,297 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:44:00,776 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:44:00,884 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:44:00,884 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:44:00,920 [INFO] console: ⏱️ [2025-06-26 09:43] 📈 Prediction: SHORT (Confidence: 0.70)
+2025-06-26 09:44:00,921 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:45:01,389 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:45:01,476 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:45:01,476 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:45:01,519 [INFO] console: ⏱️ [2025-06-26 09:44] 📈 Prediction: SHORT (Confidence: 0.66)
+2025-06-26 09:45:01,519 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:46:01,186 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:46:01,300 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:46:01,300 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:46:01,337 [INFO] console: ⏱️ [2025-06-26 09:45] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 09:46:01,337 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:47:00,777 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:47:00,963 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:47:00,963 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:47:01,031 [INFO] console: ⏱️ [2025-06-26 09:46] 📈 Prediction: SHORT (Confidence: 0.56)
+2025-06-26 09:47:01,993 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:48:01,965 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:48:02,140 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:48:02,140 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:48:02,209 [INFO] console: ⏱️ [2025-06-26 09:47] 📈 Prediction: SHORT (Confidence: 0.66)
+2025-06-26 09:48:02,209 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:49:01,809 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:49:01,986 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:49:01,986 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:49:02,053 [INFO] console: ⏱️ [2025-06-26 09:48] 📈 Prediction: SHORT (Confidence: 0.62)
+2025-06-26 09:49:02,053 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:50:00,666 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:50:00,890 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:50:00,890 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:50:00,978 [INFO] console: ⏱️ [2025-06-26 09:49] 📈 Prediction: SHORT (Confidence: 0.59)
+2025-06-26 09:50:02,329 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:51:01,521 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:51:01,762 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:51:01,762 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:51:01,845 [INFO] console: ⏱️ [2025-06-26 09:50] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 09:51:01,846 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:52:01,687 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:52:01,916 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:52:01,916 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:52:01,995 [INFO] console: ⏱️ [2025-06-26 09:51] 📈 Prediction: LONG (Confidence: 0.51)
+2025-06-26 09:52:01,995 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:53:02,126 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:53:02,344 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:53:02,345 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:53:02,411 [INFO] console: ⏱️ [2025-06-26 09:52] 📈 Prediction: SHORT (Confidence: 0.54)
+2025-06-26 09:53:02,412 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:54:00,911 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:54:02,328 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:54:02,328 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:54:02,447 [INFO] console: ⏱️ [2025-06-26 09:53] 📈 Prediction: SHORT (Confidence: 0.58)
+2025-06-26 09:54:02,448 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:55:00,881 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:55:00,977 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:55:00,977 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:55:01,012 [INFO] console: ⏱️ [2025-06-26 09:54] 📈 Prediction: LONG (Confidence: 0.59)
+2025-06-26 09:55:01,012 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:56:00,886 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:56:00,975 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:56:00,975 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:56:01,013 [INFO] console: ⏱️ [2025-06-26 09:55] 📈 Prediction: SHORT (Confidence: 0.50)
+2025-06-26 09:56:01,013 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:57:00,464 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:57:00,571 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:57:00,571 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:57:00,605 [INFO] console: ⏱️ [2025-06-26 09:56] 📈 Prediction: LONG (Confidence: 0.52)
+2025-06-26 09:57:00,606 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:58:01,205 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:58:01,308 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:58:01,308 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:58:01,342 [INFO] console: ⏱️ [2025-06-26 09:57] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 09:58:01,342 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 09:59:00,767 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 09:59:00,866 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 09:59:00,866 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 09:59:00,902 [INFO] console: ⏱️ [2025-06-26 09:58] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 09:59:00,903 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:00:01,610 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:00:01,714 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:00:01,714 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:00:01,749 [INFO] console: ⏱️ [2025-06-26 09:59] 📈 Prediction: LONG (Confidence: 0.60)
+2025-06-26 10:00:01,749 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:01:01,458 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:01:01,576 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:01:01,577 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:01:01,637 [INFO] console: ⏱️ [2025-06-26 10:00] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 10:01:01,637 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:02:02,139 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:02:02,354 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:02:02,354 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:02:02,441 [INFO] console: ⏱️ [2025-06-26 10:01] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 10:02:02,442 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:03:00,926 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:03:02,387 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:03:02,387 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:03:02,504 [INFO] console: ⏱️ [2025-06-26 10:02] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 10:03:02,505 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:04:01,398 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:04:01,714 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:04:01,714 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:04:01,793 [INFO] console: ⏱️ [2025-06-26 10:03] 📈 Prediction: SHORT (Confidence: 0.52)
+2025-06-26 10:04:01,793 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:05:01,608 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:05:01,889 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:05:01,889 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:05:01,982 [INFO] console: ⏱️ [2025-06-26 10:04] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 10:05:01,983 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:06:01,735 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:06:01,983 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:06:01,983 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:06:02,058 [INFO] console: ⏱️ [2025-06-26 10:05] 📈 Prediction: LONG (Confidence: 0.67)
+2025-06-26 10:06:02,059 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:07:00,531 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:07:02,015 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:07:02,015 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:07:02,176 [INFO] console: ⏱️ [2025-06-26 10:06] 📈 Prediction: LONG (Confidence: 0.60)
+2025-06-26 10:07:02,177 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:08:01,919 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:08:02,280 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:08:02,280 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:08:02,349 [INFO] console: ⏱️ [2025-06-26 10:07] 📈 Prediction: LONG (Confidence: 0.62)
+2025-06-26 10:08:02,350 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:09:01,580 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:09:01,713 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:09:01,713 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:09:01,747 [INFO] console: ⏱️ [2025-06-26 10:08] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 10:09:01,748 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:10:01,876 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:10:01,979 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:10:01,979 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:10:02,013 [INFO] console: ⏱️ [2025-06-26 10:09] 📈 Prediction: SHORT (Confidence: 0.50)
+2025-06-26 10:10:02,014 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:11:00,951 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:11:01,038 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:11:01,038 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:11:01,073 [INFO] console: ⏱️ [2025-06-26 10:10] 📈 Prediction: LONG (Confidence: 0.62)
+2025-06-26 10:11:01,074 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:12:00,979 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:12:01,070 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:12:01,070 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:12:01,105 [INFO] console: ⏱️ [2025-06-26 10:11] 📈 Prediction: LONG (Confidence: 0.54)
+2025-06-26 10:12:01,106 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:13:01,625 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:13:01,724 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:13:01,724 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:13:01,759 [INFO] console: ⏱️ [2025-06-26 10:12] 📈 Prediction: LONG (Confidence: 0.60)
+2025-06-26 10:13:01,759 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:14:01,778 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:14:01,874 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:14:01,874 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:14:01,909 [INFO] console: ⏱️ [2025-06-26 10:13] 📈 Prediction: SHORT (Confidence: 0.55)
+2025-06-26 10:14:01,909 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:15:01,989 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:15:02,095 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:15:02,095 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:15:02,130 [INFO] console: ⏱️ [2025-06-26 10:14] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 10:15:02,130 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:15:37,495 [INFO] __main__: Shutting down trade_bot
+2025-06-26 10:15:40,350 [INFO] pipeline_loop: Starting pipeline loop
+2025-06-26 10:15:40,351 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-06-26 10:15:40,351 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-06-26 10:15:40,351 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-06-26 10:15:41,342 [INFO] feature_generator: No new bars to feature.
+2025-06-26 10:15:41,374 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 10:15:51,982 [INFO] broker_utils: Breeze session initialized successfully
+2025-06-26 10:16:01,307 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:16:01,413 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:16:01,413 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:16:02,309 [INFO] console: ⏱️ [2025-06-26 10:15] 📈 Prediction: SHORT (Confidence: 0.54)
+2025-06-26 10:16:02,309 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:17:01,501 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:17:01,601 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:17:01,601 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:17:01,635 [INFO] console: ⏱️ [2025-06-26 10:16] 📈 Prediction: LONG (Confidence: 0.51)
+2025-06-26 10:17:01,635 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:18:01,879 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:18:01,971 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:18:01,971 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:18:02,007 [INFO] console: ⏱️ [2025-06-26 10:17] 📈 Prediction: SHORT (Confidence: 0.62)
+2025-06-26 10:18:02,007 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:19:00,885 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:19:01,380 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:19:01,388 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:19:01,441 [INFO] console: ⏱️ [2025-06-26 10:18] 📈 Prediction: SHORT (Confidence: 0.61)
+2025-06-26 10:19:01,442 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:20:01,661 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:20:01,765 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:20:01,765 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:20:01,800 [INFO] console: ⏱️ [2025-06-26 10:19] 📈 Prediction: LONG (Confidence: 0.54)
+2025-06-26 10:20:01,801 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:21:01,814 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:21:01,926 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:21:01,926 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:21:01,970 [INFO] console: ⏱️ [2025-06-26 10:20] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 10:21:01,970 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:22:02,184 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:22:02,286 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:22:02,286 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:22:02,319 [INFO] console: ⏱️ [2025-06-26 10:21] 📈 Prediction: LONG (Confidence: 0.51)
+2025-06-26 10:22:02,319 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:23:01,228 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:23:01,307 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:23:01,307 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:23:01,339 [INFO] console: ⏱️ [2025-06-26 10:22] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 10:23:01,340 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:24:01,501 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:24:01,605 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:24:01,605 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:24:01,637 [INFO] console: ⏱️ [2025-06-26 10:23] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 10:24:01,638 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:25:01,652 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:25:01,763 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:25:01,763 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:25:01,795 [INFO] console: ⏱️ [2025-06-26 10:24] 📈 Prediction: SHORT (Confidence: 0.58)
+2025-06-26 10:25:01,796 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:26:01,948 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:26:02,050 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:26:02,050 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:26:02,082 [INFO] console: ⏱️ [2025-06-26 10:25] 📈 Prediction: LONG (Confidence: 0.63)
+2025-06-26 10:26:02,083 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:27:01,098 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:27:01,199 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:27:01,199 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:27:01,231 [INFO] console: ⏱️ [2025-06-26 10:26] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 10:27:01,232 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:28:01,095 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:28:01,201 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:28:01,201 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:28:01,234 [INFO] console: ⏱️ [2025-06-26 10:27] 📈 Prediction: LONG (Confidence: 0.52)
+2025-06-26 10:28:01,235 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:29:01,402 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:29:01,504 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:29:01,504 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:29:01,546 [INFO] console: ⏱️ [2025-06-26 10:28] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 10:29:01,546 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:30:01,732 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:30:01,834 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:30:01,834 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:30:01,869 [INFO] console: ⏱️ [2025-06-26 10:29] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 10:30:01,869 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:31:01,823 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:31:01,926 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:31:01,926 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:31:01,960 [INFO] console: ⏱️ [2025-06-26 10:30] 📈 Prediction: SHORT (Confidence: 0.54)
+2025-06-26 10:31:01,961 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:32:01,995 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:32:02,099 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:32:02,099 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:32:02,131 [INFO] console: ⏱️ [2025-06-26 10:31] 📈 Prediction: LONG (Confidence: 0.51)
+2025-06-26 10:32:02,131 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:33:02,362 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:33:02,473 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:33:02,473 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:33:02,508 [INFO] console: ⏱️ [2025-06-26 10:32] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 10:33:02,509 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:34:01,654 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:34:01,757 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:34:01,757 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:34:01,792 [INFO] console: ⏱️ [2025-06-26 10:33] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 10:34:01,792 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:35:01,890 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:35:01,985 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:35:01,985 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:35:02,019 [INFO] console: ⏱️ [2025-06-26 10:34] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 10:35:02,020 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:36:01,219 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:36:01,315 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:36:01,315 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:36:01,349 [INFO] console: ⏱️ [2025-06-26 10:35] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 10:36:01,349 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:37:01,288 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:37:01,372 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:37:01,372 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:37:01,408 [INFO] console: ⏱️ [2025-06-26 10:36] 📈 Prediction: SHORT (Confidence: 0.52)
+2025-06-26 10:37:01,408 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:38:01,990 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:38:02,092 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:38:02,092 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:38:02,126 [INFO] console: ⏱️ [2025-06-26 10:37] 📈 Prediction: SHORT (Confidence: 0.55)
+2025-06-26 10:38:02,127 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:39:01,595 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:39:01,694 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:39:01,694 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:39:01,728 [INFO] console: ⏱️ [2025-06-26 10:38] 📈 Prediction: LONG (Confidence: 0.53)
+2025-06-26 10:39:01,728 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:40:02,693 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:40:02,796 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:40:02,796 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:40:02,831 [INFO] console: ⏱️ [2025-06-26 10:39] 📈 Prediction: LONG (Confidence: 0.59)
+2025-06-26 10:40:02,831 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:41:04,686 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:41:04,790 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:41:04,790 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:41:04,824 [INFO] console: ⏱️ [2025-06-26 10:40] 📈 Prediction: LONG (Confidence: 0.53)
+2025-06-26 10:41:04,824 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:42:02,355 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:42:02,459 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:42:02,459 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:42:02,493 [INFO] console: ⏱️ [2025-06-26 10:41] 📈 Prediction: SHORT (Confidence: 0.52)
+2025-06-26 10:42:02,494 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:43:01,817 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:43:01,908 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:43:01,908 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:43:01,946 [INFO] console: ⏱️ [2025-06-26 10:42] 📈 Prediction: LONG (Confidence: 0.54)
+2025-06-26 10:43:01,946 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:44:02,076 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:44:02,173 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:44:02,173 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:44:02,211 [INFO] console: ⏱️ [2025-06-26 10:43] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 10:44:02,212 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:45:01,463 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:45:01,567 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:45:01,567 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:45:01,601 [INFO] console: ⏱️ [2025-06-26 10:44] 📈 Prediction: SHORT (Confidence: 0.69)
+2025-06-26 10:45:01,601 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:46:01,761 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:46:01,859 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:46:01,860 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:46:01,893 [INFO] console: ⏱️ [2025-06-26 10:45] 📈 Prediction: LONG (Confidence: 0.52)
+2025-06-26 10:46:01,893 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:47:01,806 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:47:01,912 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:47:01,912 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:47:01,947 [INFO] console: ⏱️ [2025-06-26 10:46] 📈 Prediction: SHORT (Confidence: 0.56)
+2025-06-26 10:47:01,948 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:48:02,075 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:48:02,178 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:48:02,178 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:48:02,215 [INFO] console: ⏱️ [2025-06-26 10:47] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 10:48:02,216 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:49:01,028 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:49:01,110 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:49:01,110 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:49:01,144 [INFO] console: ⏱️ [2025-06-26 10:48] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 10:49:01,145 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:50:01,491 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:50:01,594 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:50:01,594 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:50:01,629 [INFO] console: ⏱️ [2025-06-26 10:49] 📈 Prediction: SHORT (Confidence: 0.50)
+2025-06-26 10:50:01,629 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:51:01,504 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:51:01,607 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:51:01,607 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:51:01,640 [INFO] console: ⏱️ [2025-06-26 10:50] 📈 Prediction: LONG (Confidence: 0.50)
+2025-06-26 10:51:01,640 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:52:01,817 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:52:01,919 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:52:01,919 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:52:01,954 [INFO] console: ⏱️ [2025-06-26 10:51] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 10:52:01,955 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:53:02,590 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:53:02,696 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:53:02,696 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:53:02,731 [INFO] console: ⏱️ [2025-06-26 10:52] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 10:53:02,731 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:54:02,489 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:54:02,583 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:54:02,583 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:54:02,617 [INFO] console: ⏱️ [2025-06-26 10:53] 📈 Prediction: LONG (Confidence: 0.54)
+2025-06-26 10:54:02,617 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:55:03,920 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:55:04,016 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:55:04,016 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:55:04,051 [INFO] console: ⏱️ [2025-06-26 10:54] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 10:55:04,052 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:56:11,156 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:56:11,256 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:56:11,256 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:56:11,291 [INFO] console: ⏱️ [2025-06-26 10:55] 📈 Prediction: SHORT (Confidence: 0.55)
+2025-06-26 10:56:11,291 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:57:02,843 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:57:02,950 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:57:02,950 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:57:02,987 [INFO] console: ⏱️ [2025-06-26 10:56] 📈 Prediction: LONG (Confidence: 0.67)
+2025-06-26 10:57:02,987 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 10:58:02,383 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 10:58:02,484 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 10:58:02,484 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 10:58:02,518 [INFO] console: ⏱️ [2025-06-26 10:57] 📈 Prediction: LONG (Confidence: 0.50)
+2025-06-26 10:58:02,518 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:00:15,566 [ERROR] true_data_utils: Attempt 1 fetch failed: HTTPSConnectionPool(host='auth.truedata.in', port=443): Max retries exceeded with url: /token (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10718e990>, 'Connection to auth.truedata.in timed out. (connect timeout=None)'))
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+        (self._dns_host, self.port), self.timeout, **extra_kw
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/util/connection.py", line 95, in create_connection
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+TimeoutError: [Errno 60] Operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connectionpool.py", line 716, in urlopen
+    httplib_response = self._make_request(
+        conn,
+    ...<5 lines>...
+        chunked=chunked,
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connectionpool.py", line 404, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connectionpool.py", line 1061, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+    ...<3 lines>...
+    )
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x10718e990>, 'Connection to auth.truedata.in timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<8 lines>...
+        timeout=timeout
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connectionpool.py", line 802, in urlopen
+    retries = retries.increment(
+        method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/util/retry.py", line 594, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='auth.truedata.in', port=443): Max retries exceeded with url: /token (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10718e990>, 'Connection to auth.truedata.in timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 29, in get_token
+    resp = requests.post(url, data=payload)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/api.py", line 119, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='auth.truedata.in', port=443): Max retries exceeded with url: /token (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x10718e990>, 'Connection to auth.truedata.in timed out. (connect timeout=None)'))
+2025-06-26 11:00:16,000 [ERROR] atm_strike: Error fetching BANKNIFTY spot price
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+        (self._dns_host, self.port), self.timeout, **extra_kw
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/util/connection.py", line 95, in create_connection
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+TimeoutError: [Errno 60] Operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connectionpool.py", line 716, in urlopen
+    httplib_response = self._make_request(
+        conn,
+    ...<5 lines>...
+        chunked=chunked,
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connectionpool.py", line 404, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connectionpool.py", line 1061, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connection.py", line 179, in _new_conn
+    raise ConnectTimeoutError(
+    ...<3 lines>...
+    )
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x146bd0050>, 'Connection to api.icicidirect.com timed out. (connect timeout=None)')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<8 lines>...
+        timeout=timeout
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/connectionpool.py", line 802, in urlopen
+    retries = retries.increment(
+        method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/urllib3/util/retry.py", line 594, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.icicidirect.com', port=443): Max retries exceeded with url: /breezeapi/api/v1/quotes (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x146bd0050>, 'Connection to api.icicidirect.com timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1120, in make_request
+    res = requests.get(url=url, data=body, headers=headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.icicidirect.com', port=443): Max retries exceeded with url: /breezeapi/api/v1/quotes (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x146bd0050>, 'Connection to api.icicidirect.com timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1847, in get_quotes
+    response = self.make_request(req_type.GET, api_endpoint.QUOTE.value, body, headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1132, in make_request
+    self.error_exception(except_message.API_REQUEST_EXCEPTION.value.format(method,url),e)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1090, in error_exception
+    raise Exception(message).with_traceback(error.__traceback__)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1120, in make_request
+    res = requests.get(url=url, data=body, headers=headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+Exception: Error while trying to make request GET https://api.icicidirect.com/breezeapi/api/v1/quotes() Error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1020, in get_quotes
+    return self.api_handler.get_quotes(stock_code, exchange_code, expiry_date, product_type, right, strike_price)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1851, in get_quotes
+    self.error_exception(self.get_quotes.__name__,e)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1090, in error_exception
+    raise Exception(message).with_traceback(error.__traceback__)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1847, in get_quotes
+    response = self.make_request(req_type.GET, api_endpoint.QUOTE.value, body, headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1132, in make_request
+    self.error_exception(except_message.API_REQUEST_EXCEPTION.value.format(method,url),e)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1090, in error_exception
+    raise Exception(message).with_traceback(error.__traceback__)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1120, in make_request
+    res = requests.get(url=url, data=body, headers=headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/adapters.py", line 504, in send
+    raise ConnectTimeout(e, request=request)
+Exception: get_quotes() Error
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /atm_strike.py", line 19, in get_banknifty_spot_index_price
+    resp = breeze.get_quotes(
+        stock_code=SYMBOL_PREFIX,
+        exchange_code="NSE",
+        product_type="cash"
+    )
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/breeze_connect/breeze_connect.py", line 1022, in get_quotes
+    self.error_exception(self.get_quotes.__name__,e)
+    ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'BreezeConnect' object has no attribute 'error_exception'
+2025-06-26 11:00:21,113 [INFO] data_fetch: Inserted 2 new bars into SQLite 'bars' table
+2025-06-26 11:00:21,218 [INFO] feature_generator: Inserted 2 new feature rows into SQLite 'features' table
+2025-06-26 11:00:21,218 [INFO] console: ✅ Inserted 2 feature rows
+2025-06-26 11:00:21,256 [INFO] console: ⏱️ [2025-06-26 10:58] 📈 Prediction: SHORT (Confidence: 0.60)
+2025-06-26 11:00:21,256 [INFO] console: ⏱️ [2025-06-26 10:59] 📈 Prediction: SHORT (Confidence: 0.51)
+2025-06-26 11:00:21,256 [INFO] predictor: Inserted 2 new predictions into 'predictions' table
+2025-06-26 11:01:00,695 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:01:00,811 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:01:00,811 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:01:00,848 [INFO] console: ⏱️ [2025-06-26 11:00] 📈 Prediction: LONG (Confidence: 0.52)
+2025-06-26 11:01:01,262 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:02:00,702 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:02:00,806 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:02:00,806 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:02:00,839 [INFO] console: ⏱️ [2025-06-26 11:01] 📈 Prediction: LONG (Confidence: 0.54)
+2025-06-26 11:02:00,840 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:03:01,223 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:03:01,301 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:03:01,301 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:03:01,336 [INFO] console: ⏱️ [2025-06-26 11:02] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 11:03:01,336 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:04:00,802 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:04:01,298 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:04:01,298 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:04:01,356 [INFO] console: ⏱️ [2025-06-26 11:03] 📈 Prediction: SHORT (Confidence: 0.54)
+2025-06-26 11:04:01,356 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:05:00,806 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:05:00,911 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:05:00,911 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:05:00,945 [INFO] console: ⏱️ [2025-06-26 11:04] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 11:05:00,946 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:06:01,390 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:06:01,494 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:06:01,494 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:06:01,528 [INFO] console: ⏱️ [2025-06-26 11:05] 📈 Prediction: LONG (Confidence: 0.52)
+2025-06-26 11:06:01,528 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:07:00,895 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:07:00,986 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:07:00,986 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:07:01,021 [INFO] console: ⏱️ [2025-06-26 11:06] 📈 Prediction: SHORT (Confidence: 0.60)
+2025-06-26 11:07:01,021 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:08:00,754 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:08:00,850 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:08:00,851 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:08:00,886 [INFO] console: ⏱️ [2025-06-26 11:07] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 11:08:00,887 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:09:01,298 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:09:01,385 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:09:01,385 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:09:01,422 [INFO] console: ⏱️ [2025-06-26 11:08] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 11:09:01,422 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:10:00,984 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:10:01,087 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:10:01,087 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:10:01,122 [INFO] console: ⏱️ [2025-06-26 11:09] 📈 Prediction: LONG (Confidence: 0.67)
+2025-06-26 11:10:01,122 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:11:00,562 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:11:01,078 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:11:01,082 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:11:01,115 [INFO] console: ⏱️ [2025-06-26 11:10] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 11:11:01,115 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:12:00,622 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:12:00,721 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:12:00,721 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:12:00,754 [INFO] console: ⏱️ [2025-06-26 11:11] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 11:12:00,754 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:13:01,291 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:13:01,392 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:13:01,392 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:13:01,428 [INFO] console: ⏱️ [2025-06-26 11:12] 📈 Prediction: LONG (Confidence: 0.51)
+2025-06-26 11:13:01,428 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:14:00,923 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:14:01,435 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:14:01,435 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:14:01,471 [INFO] console: ⏱️ [2025-06-26 11:13] 📈 Prediction: LONG (Confidence: 0.60)
+2025-06-26 11:14:01,472 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:15:00,856 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:15:00,949 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:15:00,949 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:15:00,986 [INFO] console: ⏱️ [2025-06-26 11:14] 📈 Prediction: SHORT (Confidence: 0.54)
+2025-06-26 11:15:00,987 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:16:01,458 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:16:01,557 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:16:01,557 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:16:01,590 [INFO] console: ⏱️ [2025-06-26 11:15] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 11:16:01,591 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:17:00,972 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:17:01,054 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:17:01,055 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:17:01,087 [INFO] console: ⏱️ [2025-06-26 11:16] 📈 Prediction: LONG (Confidence: 0.70)
+2025-06-26 11:17:01,088 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:18:00,555 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:18:00,977 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:18:00,978 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:18:01,073 [INFO] console: ⏱️ [2025-06-26 11:17] 📈 Prediction: LONG (Confidence: 0.79)
+2025-06-26 11:18:01,074 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:19:00,493 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:19:00,601 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:19:00,601 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:19:00,637 [INFO] console: ⏱️ [2025-06-26 11:18] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 11:19:00,637 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:20:01,207 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:20:01,309 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:20:01,310 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:20:01,343 [INFO] console: ⏱️ [2025-06-26 11:19] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 11:20:01,344 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:21:00,827 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:21:01,329 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:21:01,329 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:21:01,363 [INFO] console: ⏱️ [2025-06-26 11:20] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 11:21:01,363 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:22:00,814 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:22:00,918 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:22:00,918 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:22:00,951 [INFO] console: ⏱️ [2025-06-26 11:21] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 11:22:00,951 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:23:01,347 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:23:01,449 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:23:01,449 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:23:01,491 [INFO] console: ⏱️ [2025-06-26 11:22] 📈 Prediction: LONG (Confidence: 0.71)
+2025-06-26 11:23:01,491 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:24:00,909 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:24:00,989 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:24:00,989 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:24:01,030 [INFO] console: ⏱️ [2025-06-26 11:23] 📈 Prediction: LONG (Confidence: 0.81)
+2025-06-26 11:24:01,031 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:25:00,800 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:25:00,895 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:25:00,895 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:25:00,935 [INFO] console: ⏱️ [2025-06-26 11:24] 📈 Prediction: LONG (Confidence: 0.60)
+2025-06-26 11:25:00,935 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:25:01,502 [INFO] console: ⏱️ [2025-06-26 11:23] SKIP LONG (conf=0.81) — EMA15 filter=False
+2025-06-26 11:26:01,385 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:26:01,473 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:26:01,473 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:26:01,506 [INFO] console: ⏱️ [2025-06-26 11:25] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 11:26:01,506 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:27:01,104 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:27:01,186 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:27:01,186 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:27:01,222 [INFO] console: ⏱️ [2025-06-26 11:26] 📈 Prediction: LONG (Confidence: 0.85)
+2025-06-26 11:27:01,222 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:28:00,794 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:28:00,894 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:28:00,894 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:28:00,926 [INFO] console: ⏱️ [2025-06-26 11:27] 📈 Prediction: LONG (Confidence: 0.84)
+2025-06-26 11:28:00,926 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:28:01,516 [INFO] console: ⏱️ [2025-06-26 11:26] SKIP LONG (conf=0.85) — EMA15 filter=False
+2025-06-26 11:29:01,414 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:29:01,506 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:29:01,506 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:29:01,540 [INFO] console: ⏱️ [2025-06-26 11:28] 📈 Prediction: LONG (Confidence: 0.77)
+2025-06-26 11:29:01,540 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:29:01,650 [INFO] console: ⏱️ [2025-06-26 11:27] SKIP LONG (conf=0.84) — EMA15 filter=False
+2025-06-26 11:30:01,104 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:30:01,205 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:30:01,205 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:30:01,237 [INFO] console: ⏱️ [2025-06-26 11:29] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 11:30:01,238 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:31:00,683 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:31:00,779 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:31:00,779 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:31:00,817 [INFO] console: ⏱️ [2025-06-26 11:30] 📈 Prediction: LONG (Confidence: 0.51)
+2025-06-26 11:31:01,222 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:32:00,743 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:32:00,846 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:32:00,846 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:32:00,879 [INFO] console: ⏱️ [2025-06-26 11:31] 📈 Prediction: LONG (Confidence: 0.80)
+2025-06-26 11:32:00,879 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:33:01,432 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:33:01,533 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:33:01,533 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:33:01,566 [INFO] console: ⏱️ [2025-06-26 11:32] 📈 Prediction: LONG (Confidence: 0.82)
+2025-06-26 11:33:01,566 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:34:01,037 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:34:01,127 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:34:01,127 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:34:01,163 [INFO] console: ⏱️ [2025-06-26 11:33] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 11:34:01,163 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:34:01,216 [INFO] console: ⏱️ [2025-06-26 11:32] SKIP LONG (conf=0.82) — EMA15 filter=False
+2025-06-26 11:35:00,666 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:35:00,766 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:35:00,767 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:35:00,802 [INFO] console: ⏱️ [2025-06-26 11:34] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 11:35:00,802 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:36:01,297 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:36:01,389 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:36:01,389 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:36:01,424 [INFO] console: ⏱️ [2025-06-26 11:35] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 11:36:01,424 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:37:00,892 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:37:00,995 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:37:00,995 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:37:01,032 [INFO] console: ⏱️ [2025-06-26 11:36] 📈 Prediction: LONG (Confidence: 0.71)
+2025-06-26 11:37:01,032 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:38:00,528 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:38:01,032 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:38:01,032 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:38:01,068 [INFO] console: ⏱️ [2025-06-26 11:37] 📈 Prediction: LONG (Confidence: 0.76)
+2025-06-26 11:38:01,069 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:39:00,566 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:39:00,680 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:39:00,680 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:39:00,718 [INFO] console: ⏱️ [2025-06-26 11:38] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 11:39:01,123 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:40:00,640 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:40:00,734 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:40:00,734 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:40:00,768 [INFO] console: ⏱️ [2025-06-26 11:39] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 11:40:01,172 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:41:00,672 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:41:00,776 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:41:00,776 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:41:00,809 [INFO] console: ⏱️ [2025-06-26 11:40] 📈 Prediction: LONG (Confidence: 0.76)
+2025-06-26 11:41:00,809 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:42:01,376 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:42:01,478 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:42:01,478 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:42:01,513 [INFO] console: ⏱️ [2025-06-26 11:41] 📈 Prediction: LONG (Confidence: 0.78)
+2025-06-26 11:42:01,513 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:43:00,917 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:43:01,000 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:43:01,000 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:43:01,035 [INFO] console: ⏱️ [2025-06-26 11:42] 📈 Prediction: LONG (Confidence: 0.79)
+2025-06-26 11:43:01,035 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:44:00,582 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:44:00,687 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:44:00,687 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:44:00,724 [INFO] console: ⏱️ [2025-06-26 11:43] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 11:44:00,725 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:45:01,184 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:45:01,278 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:45:01,278 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:45:01,312 [INFO] console: ⏱️ [2025-06-26 11:44] 📈 Prediction: LONG (Confidence: 0.53)
+2025-06-26 11:45:01,313 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:46:00,784 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:46:00,927 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:46:00,927 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:46:00,961 [INFO] console: ⏱️ [2025-06-26 11:45] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 11:46:00,961 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:47:01,352 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:47:01,440 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:47:01,440 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:47:01,473 [INFO] console: ⏱️ [2025-06-26 11:46] 📈 Prediction: SHORT (Confidence: 0.54)
+2025-06-26 11:47:01,474 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:48:01,022 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:48:01,123 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:48:01,123 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:48:01,158 [INFO] console: ⏱️ [2025-06-26 11:47] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 11:48:01,158 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:49:00,654 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:49:01,153 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:49:01,153 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:49:01,185 [INFO] console: ⏱️ [2025-06-26 11:48] 📈 Prediction: LONG (Confidence: 0.54)
+2025-06-26 11:49:01,185 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:50:00,671 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:50:00,775 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:50:00,775 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:50:00,808 [INFO] console: ⏱️ [2025-06-26 11:49] 📈 Prediction: LONG (Confidence: 0.60)
+2025-06-26 11:50:00,809 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:51:01,280 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:51:01,383 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:51:01,383 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:51:01,418 [INFO] console: ⏱️ [2025-06-26 11:50] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 11:51:01,418 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:52:00,962 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:52:01,066 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:52:01,066 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:52:01,098 [INFO] console: ⏱️ [2025-06-26 11:51] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 11:52:01,098 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:53:01,000 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:53:01,078 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:53:01,078 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:53:01,112 [INFO] console: ⏱️ [2025-06-26 11:52] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 11:53:01,112 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:54:00,583 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:54:01,086 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:54:01,086 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:54:01,120 [INFO] console: ⏱️ [2025-06-26 11:53] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 11:54:01,121 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:55:00,747 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:55:01,250 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:55:01,250 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:55:01,288 [INFO] console: ⏱️ [2025-06-26 11:54] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 11:55:01,289 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:56:00,762 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:56:00,864 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:56:00,864 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:56:00,900 [INFO] console: ⏱️ [2025-06-26 11:55] 📈 Prediction: LONG (Confidence: 0.78)
+2025-06-26 11:56:01,303 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:57:00,789 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:57:00,889 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:57:00,889 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:57:00,925 [INFO] console: ⏱️ [2025-06-26 11:56] 📈 Prediction: LONG (Confidence: 0.79)
+2025-06-26 11:57:01,326 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:58:00,758 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:58:00,850 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:58:00,850 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:58:00,884 [INFO] console: ⏱️ [2025-06-26 11:57] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 11:58:00,885 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 11:59:01,302 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 11:59:01,400 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 11:59:01,400 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 11:59:01,435 [INFO] console: ⏱️ [2025-06-26 11:58] 📈 Prediction: LONG (Confidence: 0.77)
+2025-06-26 11:59:01,435 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:00:00,866 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:00:00,947 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:00:00,947 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:00:00,981 [INFO] console: ⏱️ [2025-06-26 11:59] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 12:00:00,982 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:01:01,390 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:01:01,491 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:01:01,491 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:01:01,526 [INFO] console: ⏱️ [2025-06-26 12:00] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 12:01:01,527 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:02:01,180 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:02:01,301 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:02:01,301 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:02:01,340 [INFO] console: ⏱️ [2025-06-26 12:01] 📈 Prediction: LONG (Confidence: 0.67)
+2025-06-26 12:02:01,341 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:03:00,760 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:03:00,903 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:03:00,903 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:03:00,949 [INFO] console: ⏱️ [2025-06-26 12:02] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 12:03:01,333 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:04:00,823 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:04:00,927 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:04:00,927 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:04:00,964 [INFO] console: ⏱️ [2025-06-26 12:03] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 12:04:01,348 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:05:00,807 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:05:00,895 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:05:00,895 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:05:00,938 [INFO] console: ⏱️ [2025-06-26 12:04] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 12:05:00,939 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:06:01,391 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:06:01,486 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:06:01,486 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:06:01,548 [INFO] console: ⏱️ [2025-06-26 12:05] 📈 Prediction: SHORT (Confidence: 0.52)
+2025-06-26 12:06:01,549 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:07:00,997 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:07:01,088 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:07:01,088 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:07:01,124 [INFO] console: ⏱️ [2025-06-26 12:06] 📈 Prediction: SHORT (Confidence: 0.56)
+2025-06-26 12:07:01,124 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:08:00,575 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:08:01,052 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:08:01,065 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:08:01,107 [INFO] console: ⏱️ [2025-06-26 12:07] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 12:08:01,107 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:09:00,613 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:09:00,747 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:09:00,747 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:09:00,785 [INFO] console: ⏱️ [2025-06-26 12:08] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 12:09:00,796 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:10:01,375 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:10:01,488 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:10:01,488 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:10:01,527 [INFO] console: ⏱️ [2025-06-26 12:09] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 12:10:01,528 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:11:00,925 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:11:01,004 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:11:01,004 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:11:01,040 [INFO] console: ⏱️ [2025-06-26 12:10] 📈 Prediction: SHORT (Confidence: 0.59)
+2025-06-26 12:11:01,040 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:12:00,687 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:12:00,834 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:12:00,834 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:12:00,889 [INFO] console: ⏱️ [2025-06-26 12:11] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 12:12:00,890 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:13:01,358 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:13:01,439 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:13:01,439 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:13:01,475 [INFO] console: ⏱️ [2025-06-26 12:12] 📈 Prediction: LONG (Confidence: 0.52)
+2025-06-26 12:13:01,476 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:14:01,315 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:14:01,458 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:14:01,458 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:14:01,498 [INFO] console: ⏱️ [2025-06-26 12:13] 📈 Prediction: LONG (Confidence: 0.70)
+2025-06-26 12:14:01,498 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:15:01,516 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:15:01,610 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:15:01,610 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:15:01,647 [INFO] console: ⏱️ [2025-06-26 12:14] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 12:15:01,648 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:16:01,342 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:16:01,440 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:16:01,440 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:16:01,477 [INFO] console: ⏱️ [2025-06-26 12:15] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 12:16:01,478 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:17:01,268 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:17:01,405 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:17:01,405 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:17:01,451 [INFO] console: ⏱️ [2025-06-26 12:16] 📈 Prediction: LONG (Confidence: 0.60)
+2025-06-26 12:17:01,452 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:18:00,887 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:18:01,651 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:18:01,651 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:18:01,685 [INFO] console: ⏱️ [2025-06-26 12:17] 📈 Prediction: LONG (Confidence: 0.54)
+2025-06-26 12:18:01,686 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:19:01,098 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:19:01,180 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:19:01,180 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:19:01,216 [INFO] console: ⏱️ [2025-06-26 12:18] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 12:19:01,217 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:20:00,987 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:20:01,107 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:20:01,107 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:20:01,143 [INFO] console: ⏱️ [2025-06-26 12:19] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 12:20:01,144 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:21:00,632 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:21:01,200 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:21:01,200 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:21:01,242 [INFO] console: ⏱️ [2025-06-26 12:20] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 12:21:01,242 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:22:00,677 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:22:00,798 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:22:00,798 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:22:00,841 [INFO] console: ⏱️ [2025-06-26 12:21] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 12:22:01,244 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:23:00,701 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:23:00,790 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:23:00,790 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:23:00,829 [INFO] console: ⏱️ [2025-06-26 12:22] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 12:23:00,829 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:24:01,326 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:24:01,476 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:24:01,476 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:24:01,514 [INFO] console: ⏱️ [2025-06-26 12:23] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 12:24:01,514 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:25:00,935 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:25:01,022 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:25:01,022 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:25:01,061 [INFO] console: ⏱️ [2025-06-26 12:24] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 12:25:01,061 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:26:00,823 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:26:00,936 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:26:00,936 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:26:00,971 [INFO] console: ⏱️ [2025-06-26 12:25] 📈 Prediction: LONG (Confidence: 0.77)
+2025-06-26 12:26:00,971 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:27:01,393 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:27:01,475 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:27:01,475 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:27:01,512 [INFO] console: ⏱️ [2025-06-26 12:26] 📈 Prediction: LONG (Confidence: 0.71)
+2025-06-26 12:27:01,513 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:28:01,142 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:28:01,255 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:28:01,255 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:28:01,290 [INFO] console: ⏱️ [2025-06-26 12:27] 📈 Prediction: LONG (Confidence: 0.71)
+2025-06-26 12:28:01,291 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:29:00,758 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:29:01,264 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:29:01,264 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:29:01,301 [INFO] console: ⏱️ [2025-06-26 12:28] 📈 Prediction: LONG (Confidence: 0.78)
+2025-06-26 12:29:01,302 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:30:00,762 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:30:00,841 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:30:00,842 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:30:00,878 [INFO] console: ⏱️ [2025-06-26 12:29] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 12:30:00,879 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:31:01,214 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:31:01,296 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:31:01,296 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:31:01,335 [INFO] console: ⏱️ [2025-06-26 12:30] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 12:31:01,335 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:32:00,894 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:32:01,004 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:32:01,004 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:32:01,041 [INFO] console: ⏱️ [2025-06-26 12:31] 📈 Prediction: LONG (Confidence: 0.52)
+2025-06-26 12:32:01,041 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:33:01,032 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:33:01,133 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:33:01,133 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:33:01,172 [INFO] console: ⏱️ [2025-06-26 12:32] 📈 Prediction: SHORT (Confidence: 0.52)
+2025-06-26 12:33:01,172 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:34:00,647 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:34:01,193 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:34:01,203 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:34:01,285 [INFO] console: ⏱️ [2025-06-26 12:33] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 12:34:01,285 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:35:00,689 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:35:00,795 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:35:00,795 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:35:00,835 [INFO] console: ⏱️ [2025-06-26 12:34] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 12:35:00,835 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:36:01,231 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:36:01,320 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:36:01,320 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:36:01,358 [INFO] console: ⏱️ [2025-06-26 12:35] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 12:36:01,359 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:37:00,861 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:37:01,007 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:37:01,007 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:37:01,046 [INFO] console: ⏱️ [2025-06-26 12:36] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 12:37:01,046 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:38:00,585 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:38:01,114 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:38:01,114 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:38:01,151 [INFO] console: ⏱️ [2025-06-26 12:37] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 12:38:01,152 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:39:00,598 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:39:00,745 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:39:00,745 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:39:00,824 [INFO] console: ⏱️ [2025-06-26 12:38] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 12:39:01,198 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:40:00,719 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:40:00,879 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:40:00,879 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:40:00,928 [INFO] console: ⏱️ [2025-06-26 12:39] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 12:40:01,489 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:41:01,060 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:41:01,158 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:41:01,158 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:41:01,247 [INFO] console: ⏱️ [2025-06-26 12:40] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 12:41:01,247 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:42:01,057 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:42:01,172 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:42:01,172 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:42:01,211 [INFO] console: ⏱️ [2025-06-26 12:41] 📈 Prediction: LONG (Confidence: 0.59)
+2025-06-26 12:42:01,211 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:43:00,681 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:43:00,814 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:43:00,814 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:43:00,858 [INFO] console: ⏱️ [2025-06-26 12:42] 📈 Prediction: LONG (Confidence: 0.53)
+2025-06-26 12:43:00,858 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:44:01,242 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:44:01,328 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:44:01,328 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:44:01,372 [INFO] console: ⏱️ [2025-06-26 12:43] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 12:44:01,373 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:45:00,927 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:45:01,499 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:45:01,499 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:45:01,547 [INFO] console: ⏱️ [2025-06-26 12:44] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 12:45:01,547 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:46:00,985 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:46:01,566 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:46:01,567 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:46:01,632 [INFO] console: ⏱️ [2025-06-26 12:45] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 12:46:01,632 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:47:01,043 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:47:01,144 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:47:01,144 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:47:01,177 [INFO] console: ⏱️ [2025-06-26 12:46] 📈 Prediction: LONG (Confidence: 0.63)
+2025-06-26 12:47:01,178 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:48:00,669 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:48:01,229 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:48:01,229 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:48:01,266 [INFO] console: ⏱️ [2025-06-26 12:47] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 12:48:01,267 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:49:00,633 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:49:00,715 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:49:00,716 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:49:00,749 [INFO] console: ⏱️ [2025-06-26 12:48] 📈 Prediction: SHORT (Confidence: 0.53)
+2025-06-26 12:49:00,750 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:50:01,449 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:50:01,567 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:50:01,567 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:50:01,608 [INFO] console: ⏱️ [2025-06-26 12:49] 📈 Prediction: SHORT (Confidence: 0.52)
+2025-06-26 12:50:01,609 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:51:01,060 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:51:01,178 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:51:01,178 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:51:01,216 [INFO] console: ⏱️ [2025-06-26 12:50] 📈 Prediction: LONG (Confidence: 0.62)
+2025-06-26 12:51:01,216 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:52:01,261 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:52:01,382 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:52:01,382 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:52:01,431 [INFO] console: ⏱️ [2025-06-26 12:51] 📈 Prediction: LONG (Confidence: 0.70)
+2025-06-26 12:52:01,432 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:53:00,951 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:53:01,517 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:53:01,517 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:53:01,560 [INFO] console: ⏱️ [2025-06-26 12:52] 📈 Prediction: SHORT (Confidence: 0.52)
+2025-06-26 12:53:01,560 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:54:01,052 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:54:01,191 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:54:01,191 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:54:01,227 [INFO] console: ⏱️ [2025-06-26 12:53] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 12:54:01,228 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:55:00,672 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:55:01,156 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:55:01,158 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:55:01,200 [INFO] console: ⏱️ [2025-06-26 12:54] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 12:55:01,200 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:56:00,767 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:56:01,294 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:56:01,294 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:56:01,355 [INFO] console: ⏱️ [2025-06-26 12:55] 📈 Prediction: LONG (Confidence: 0.67)
+2025-06-26 12:56:01,356 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:57:00,835 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:57:00,932 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:57:00,932 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:57:00,976 [INFO] console: ⏱️ [2025-06-26 12:56] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 12:57:01,353 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:58:00,845 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:58:00,948 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:58:00,948 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:58:00,983 [INFO] console: ⏱️ [2025-06-26 12:57] 📈 Prediction: LONG (Confidence: 0.76)
+2025-06-26 12:58:00,984 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 12:59:01,337 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 12:59:01,423 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 12:59:01,423 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 12:59:01,462 [INFO] console: ⏱️ [2025-06-26 12:58] 📈 Prediction: SHORT (Confidence: 0.50)
+2025-06-26 12:59:01,463 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:00:00,862 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:00:00,949 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:00:00,949 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:00:00,984 [INFO] console: ⏱️ [2025-06-26 12:59] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 13:00:00,985 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:01:01,371 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:01:01,453 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:01:01,453 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:01:01,488 [INFO] console: ⏱️ [2025-06-26 13:00] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 13:01:01,489 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:02:01,053 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:02:01,158 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:02:01,158 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:02:01,193 [INFO] console: ⏱️ [2025-06-26 13:01] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 13:02:01,194 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:03:00,655 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:03:01,207 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:03:01,207 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:03:01,255 [INFO] console: ⏱️ [2025-06-26 13:02] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 13:03:01,255 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:04:00,745 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:04:01,233 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:04:01,246 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:04:01,288 [INFO] console: ⏱️ [2025-06-26 13:03] 📈 Prediction: LONG (Confidence: 0.62)
+2025-06-26 13:04:01,288 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:05:00,818 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:05:00,927 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:05:00,927 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:05:00,960 [INFO] console: ⏱️ [2025-06-26 13:04] 📈 Prediction: LONG (Confidence: 0.53)
+2025-06-26 13:05:00,960 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:06:01,519 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:06:01,623 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:06:01,623 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:06:01,657 [INFO] console: ⏱️ [2025-06-26 13:05] 📈 Prediction: LONG (Confidence: 0.58)
+2025-06-26 13:06:01,658 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:07:01,028 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:07:01,106 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:07:01,106 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:07:01,140 [INFO] console: ⏱️ [2025-06-26 13:06] 📈 Prediction: LONG (Confidence: 0.52)
+2025-06-26 13:07:01,140 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:08:00,783 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:08:00,869 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:08:00,869 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:08:00,902 [INFO] console: ⏱️ [2025-06-26 13:07] 📈 Prediction: LONG (Confidence: 0.50)
+2025-06-26 13:08:00,902 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:09:01,489 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:09:01,608 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:09:01,608 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:09:01,641 [INFO] console: ⏱️ [2025-06-26 13:08] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 13:09:01,641 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:10:01,176 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:10:01,406 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:10:01,406 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:10:01,459 [INFO] console: ⏱️ [2025-06-26 13:09] 📈 Prediction: SHORT (Confidence: 0.55)
+2025-06-26 13:10:01,459 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:11:00,898 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:11:01,377 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:11:01,377 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:11:01,418 [INFO] console: ⏱️ [2025-06-26 13:10] 📈 Prediction: SHORT (Confidence: 0.50)
+2025-06-26 13:11:01,418 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:12:00,852 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:12:00,944 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:12:00,944 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:12:00,976 [INFO] console: ⏱️ [2025-06-26 13:11] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 13:12:00,977 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:13:01,357 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:13:01,445 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:13:01,446 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:13:01,478 [INFO] console: ⏱️ [2025-06-26 13:12] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 13:13:01,478 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:14:00,915 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:14:00,994 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:14:00,994 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:14:01,027 [INFO] console: ⏱️ [2025-06-26 13:13] 📈 Prediction: SHORT (Confidence: 0.50)
+2025-06-26 13:14:01,028 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:15:00,440 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:15:01,011 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:15:01,011 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:15:01,050 [INFO] console: ⏱️ [2025-06-26 13:14] 📈 Prediction: LONG (Confidence: 0.58)
+2025-06-26 13:15:01,051 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:16:01,088 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:16:01,169 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:16:01,169 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:16:01,202 [INFO] console: ⏱️ [2025-06-26 13:15] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 13:16:01,202 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:17:00,637 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:17:00,726 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:17:00,726 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:17:00,761 [INFO] console: ⏱️ [2025-06-26 13:16] 📈 Prediction: LONG (Confidence: 0.51)
+2025-06-26 13:17:00,762 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:18:01,467 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:18:01,565 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:18:01,565 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:18:01,603 [INFO] console: ⏱️ [2025-06-26 13:17] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 13:18:01,604 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:19:01,010 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:19:01,104 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:19:01,104 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:19:01,137 [INFO] console: ⏱️ [2025-06-26 13:18] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 13:19:01,138 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:20:00,673 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:20:00,830 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:20:00,830 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:20:00,868 [INFO] console: ⏱️ [2025-06-26 13:19] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 13:20:00,869 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:21:01,433 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:21:01,518 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:21:01,518 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:21:01,557 [INFO] console: ⏱️ [2025-06-26 13:20] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 13:21:01,558 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:22:01,058 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:22:01,206 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:22:01,206 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:22:01,244 [INFO] console: ⏱️ [2025-06-26 13:21] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 13:22:01,244 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:23:00,697 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:23:01,248 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:23:01,248 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:23:01,286 [INFO] console: ⏱️ [2025-06-26 13:22] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 13:23:01,287 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:24:00,764 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:24:01,299 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:24:01,312 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:24:01,362 [INFO] console: ⏱️ [2025-06-26 13:23] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 13:24:01,362 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:25:00,831 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:25:01,360 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:25:01,368 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:25:01,429 [INFO] console: ⏱️ [2025-06-26 13:24] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 13:25:01,430 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:26:00,913 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:26:01,401 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:26:01,402 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:26:01,461 [INFO] console: ⏱️ [2025-06-26 13:25] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 13:26:01,461 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:27:01,107 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:27:01,221 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:27:01,221 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:27:01,262 [INFO] console: ⏱️ [2025-06-26 13:26] 📈 Prediction: LONG (Confidence: 0.67)
+2025-06-26 13:27:01,262 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:28:01,186 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:28:01,266 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:28:01,266 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:28:01,299 [INFO] console: ⏱️ [2025-06-26 13:27] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 13:28:01,299 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:29:00,832 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:29:01,318 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:29:01,318 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:29:01,429 [INFO] console: ⏱️ [2025-06-26 13:28] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 13:29:01,429 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:30:00,861 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:30:01,003 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:30:01,003 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:30:01,043 [INFO] console: ⏱️ [2025-06-26 13:29] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 13:30:01,422 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:31:00,838 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:31:00,920 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:31:00,920 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:31:00,956 [INFO] console: ⏱️ [2025-06-26 13:30] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 13:31:00,957 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:32:01,361 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:32:01,441 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:32:01,441 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:32:01,477 [INFO] console: ⏱️ [2025-06-26 13:31] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 13:32:01,478 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:33:00,881 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:33:00,958 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:33:00,959 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:33:00,991 [INFO] console: ⏱️ [2025-06-26 13:32] 📈 Prediction: LONG (Confidence: 0.71)
+2025-06-26 13:33:00,991 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:34:01,414 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:34:01,500 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:34:01,501 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:34:01,540 [INFO] console: ⏱️ [2025-06-26 13:33] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 13:34:01,540 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:35:01,056 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:35:01,173 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:35:01,173 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:35:01,212 [INFO] console: ⏱️ [2025-06-26 13:34] 📈 Prediction: LONG (Confidence: 0.67)
+2025-06-26 13:35:01,213 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:36:00,755 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:36:01,303 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:36:01,307 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:36:01,348 [INFO] console: ⏱️ [2025-06-26 13:35] 📈 Prediction: LONG (Confidence: 0.54)
+2025-06-26 13:36:01,348 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:37:01,353 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:37:01,473 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:37:01,473 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:37:01,514 [INFO] console: ⏱️ [2025-06-26 13:36] 📈 Prediction: LONG (Confidence: 0.52)
+2025-06-26 13:37:01,514 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:38:01,093 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:38:01,189 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:38:01,189 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:38:01,227 [INFO] console: ⏱️ [2025-06-26 13:37] 📈 Prediction: LONG (Confidence: 0.63)
+2025-06-26 13:38:01,228 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:39:00,794 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:39:00,883 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:39:00,883 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:39:00,921 [INFO] console: ⏱️ [2025-06-26 13:38] 📈 Prediction: LONG (Confidence: 0.63)
+2025-06-26 13:39:00,921 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:40:01,463 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:40:01,552 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:40:01,552 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:40:01,585 [INFO] console: ⏱️ [2025-06-26 13:39] 📈 Prediction: SHORT (Confidence: 0.52)
+2025-06-26 13:40:01,585 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:41:01,237 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:41:01,352 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:41:01,352 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:41:01,398 [INFO] console: ⏱️ [2025-06-26 13:40] 📈 Prediction: LONG (Confidence: 0.59)
+2025-06-26 13:41:01,398 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:42:00,943 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:42:01,499 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:42:01,502 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:42:01,552 [INFO] console: ⏱️ [2025-06-26 13:41] 📈 Prediction: LONG (Confidence: 0.53)
+2025-06-26 13:42:01,553 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:43:01,405 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:43:01,488 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:43:01,488 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:43:01,525 [INFO] console: ⏱️ [2025-06-26 13:42] 📈 Prediction: SHORT (Confidence: 0.56)
+2025-06-26 13:43:01,526 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:44:01,295 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:44:01,415 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:44:01,415 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:44:01,452 [INFO] console: ⏱️ [2025-06-26 13:43] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 13:44:01,452 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:45:00,934 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:45:01,016 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:45:01,016 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:45:01,052 [INFO] console: ⏱️ [2025-06-26 13:44] 📈 Prediction: SHORT (Confidence: 0.59)
+2025-06-26 13:45:01,052 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:46:00,812 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:46:00,907 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:46:00,907 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:46:00,943 [INFO] console: ⏱️ [2025-06-26 13:45] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 13:46:00,943 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:47:01,461 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:47:01,546 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:47:01,546 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:47:01,583 [INFO] console: ⏱️ [2025-06-26 13:46] 📈 Prediction: LONG (Confidence: 0.62)
+2025-06-26 13:47:01,583 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:48:01,295 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:48:01,408 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:48:01,408 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:48:01,444 [INFO] console: ⏱️ [2025-06-26 13:47] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 13:48:01,445 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:49:01,456 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:49:01,553 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:49:01,553 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:49:01,591 [INFO] console: ⏱️ [2025-06-26 13:48] 📈 Prediction: LONG (Confidence: 0.60)
+2025-06-26 13:49:01,591 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:50:01,403 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:50:01,522 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:50:01,523 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:50:01,562 [INFO] console: ⏱️ [2025-06-26 13:49] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 13:50:01,562 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:51:01,015 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:51:01,098 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:51:01,098 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:51:01,135 [INFO] console: ⏱️ [2025-06-26 13:50] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 13:51:01,135 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:52:00,805 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:52:00,922 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:52:00,922 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:52:00,971 [INFO] console: ⏱️ [2025-06-26 13:51] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 13:52:00,971 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:53:01,377 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:53:01,458 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:53:01,458 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:53:01,492 [INFO] console: ⏱️ [2025-06-26 13:52] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 13:53:01,493 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:54:02,044 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:54:02,147 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:54:02,147 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:54:02,191 [INFO] console: ⏱️ [2025-06-26 13:53] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 13:54:02,191 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:55:00,656 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:55:00,754 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:55:00,754 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:55:00,792 [INFO] console: ⏱️ [2025-06-26 13:54] 📈 Prediction: LONG (Confidence: 0.76)
+2025-06-26 13:55:00,792 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:56:01,270 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:56:01,359 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:56:01,359 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:56:01,401 [INFO] console: ⏱️ [2025-06-26 13:55] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 13:56:01,402 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:57:01,318 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:57:01,417 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:57:01,417 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:57:01,462 [INFO] console: ⏱️ [2025-06-26 13:56] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 13:57:01,462 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:58:01,466 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:58:01,572 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:58:01,572 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:58:01,619 [INFO] console: ⏱️ [2025-06-26 13:57] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 13:58:01,620 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 13:59:01,026 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 13:59:01,113 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 13:59:01,113 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 13:59:01,151 [INFO] console: ⏱️ [2025-06-26 13:58] 📈 Prediction: LONG (Confidence: 0.71)
+2025-06-26 13:59:01,152 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:00:00,788 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:00:00,934 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:00:00,934 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:00:00,971 [INFO] console: ⏱️ [2025-06-26 13:59] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 14:00:00,971 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:01:01,625 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:01:01,711 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:01:01,712 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:01:01,746 [INFO] console: ⏱️ [2025-06-26 14:00] 📈 Prediction: LONG (Confidence: 0.53)
+2025-06-26 14:01:01,747 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:02:01,252 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:02:01,376 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:02:01,376 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:02:01,422 [INFO] console: ⏱️ [2025-06-26 14:01] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 14:02:01,423 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:03:00,877 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:03:01,434 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:03:01,437 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:03:01,484 [INFO] console: ⏱️ [2025-06-26 14:02] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 14:03:01,484 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:04:00,940 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:04:01,039 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:04:01,039 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:04:01,083 [INFO] console: ⏱️ [2025-06-26 14:03] 📈 Prediction: LONG (Confidence: 0.76)
+2025-06-26 14:04:01,083 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:05:00,797 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:05:00,919 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:05:00,919 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:05:00,956 [INFO] console: ⏱️ [2025-06-26 14:04] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 14:05:00,956 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:06:01,509 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:06:01,620 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:06:01,620 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:06:01,659 [INFO] console: ⏱️ [2025-06-26 14:05] 📈 Prediction: SHORT (Confidence: 0.52)
+2025-06-26 14:06:01,659 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:07:01,069 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:07:01,154 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:07:01,154 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:07:01,192 [INFO] console: ⏱️ [2025-06-26 14:06] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 14:07:01,192 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:08:00,807 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:08:00,914 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:08:00,914 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:08:00,950 [INFO] console: ⏱️ [2025-06-26 14:07] 📈 Prediction: LONG (Confidence: 0.58)
+2025-06-26 14:08:00,950 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:09:01,387 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:09:01,493 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:09:01,493 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:09:01,541 [INFO] console: ⏱️ [2025-06-26 14:08] 📈 Prediction: SHORT (Confidence: 0.51)
+2025-06-26 14:09:01,541 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:10:01,267 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:10:01,376 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:10:01,376 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:10:01,412 [INFO] console: ⏱️ [2025-06-26 14:09] 📈 Prediction: LONG (Confidence: 0.59)
+2025-06-26 14:10:01,413 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:11:00,817 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:11:01,322 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:11:01,322 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:11:01,432 [INFO] console: ⏱️ [2025-06-26 14:10] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 14:11:01,433 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:12:00,887 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:12:00,968 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:12:00,968 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:12:01,012 [INFO] console: ⏱️ [2025-06-26 14:11] 📈 Prediction: LONG (Confidence: 0.51)
+2025-06-26 14:12:01,012 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:13:00,732 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:13:00,835 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:13:00,835 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:13:00,872 [INFO] console: ⏱️ [2025-06-26 14:12] 📈 Prediction: LONG (Confidence: 0.63)
+2025-06-26 14:13:00,872 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:14:01,374 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:14:01,463 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:14:01,463 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:14:01,509 [INFO] console: ⏱️ [2025-06-26 14:13] 📈 Prediction: LONG (Confidence: 0.78)
+2025-06-26 14:14:01,509 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:15:01,035 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:15:01,136 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:15:01,136 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:15:01,176 [INFO] console: ⏱️ [2025-06-26 14:14] 📈 Prediction: LONG (Confidence: 0.69)
+2025-06-26 14:15:01,178 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:16:01,710 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:16:01,791 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:16:01,791 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:16:01,830 [INFO] console: ⏱️ [2025-06-26 14:15] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 14:16:01,830 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:17:01,224 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:17:01,304 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:17:01,304 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:17:01,341 [INFO] console: ⏱️ [2025-06-26 14:16] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 14:17:01,341 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:18:00,766 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:18:00,905 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:18:00,905 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:18:00,939 [INFO] console: ⏱️ [2025-06-26 14:17] 📈 Prediction: LONG (Confidence: 0.63)
+2025-06-26 14:18:00,939 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:19:01,367 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:19:01,455 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:19:01,455 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:19:01,492 [INFO] console: ⏱️ [2025-06-26 14:18] 📈 Prediction: LONG (Confidence: 0.56)
+2025-06-26 14:19:01,492 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:20:01,158 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:20:01,236 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:20:01,236 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:20:01,271 [INFO] console: ⏱️ [2025-06-26 14:19] 📈 Prediction: LONG (Confidence: 0.63)
+2025-06-26 14:20:01,271 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:21:00,716 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:21:01,287 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:21:01,287 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:21:01,322 [INFO] console: ⏱️ [2025-06-26 14:20] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 14:21:01,323 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:22:00,845 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:22:01,434 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:22:01,434 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:22:01,494 [INFO] console: ⏱️ [2025-06-26 14:21] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 14:22:01,495 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:23:01,031 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:23:01,117 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:23:01,117 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:23:01,158 [INFO] console: ⏱️ [2025-06-26 14:22] 📈 Prediction: LONG (Confidence: 0.70)
+2025-06-26 14:23:01,159 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:24:01,099 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:24:01,301 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:24:01,301 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:24:01,349 [INFO] console: ⏱️ [2025-06-26 14:23] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 14:24:01,350 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:25:00,861 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:25:02,054 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:25:02,074 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:25:02,191 [INFO] console: ⏱️ [2025-06-26 14:24] 📈 Prediction: LONG (Confidence: 0.71)
+2025-06-26 14:25:02,191 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:26:01,259 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:26:01,349 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:26:01,349 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:26:01,395 [INFO] console: ⏱️ [2025-06-26 14:25] 📈 Prediction: LONG (Confidence: 0.80)
+2025-06-26 14:26:01,396 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:27:00,823 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:27:01,294 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:27:01,302 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:27:01,357 [INFO] console: ⏱️ [2025-06-26 14:26] 📈 Prediction: LONG (Confidence: 0.76)
+2025-06-26 14:27:01,358 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:27:02,187 [ERROR] broker_utils: BUY order failed, response={'Success': None, 'Status': 500, 'Error': 'Please enter lots in multiple of defined contract lot.: '}
+2025-06-26 14:28:00,907 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:28:01,487 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:28:01,487 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:28:01,559 [INFO] console: ⏱️ [2025-06-26 14:27] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 14:28:01,559 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:29:00,997 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:29:01,084 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:29:01,084 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:29:01,122 [INFO] console: ⏱️ [2025-06-26 14:28] 📈 Prediction: LONG (Confidence: 0.77)
+2025-06-26 14:29:01,122 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:30:01,025 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:30:01,169 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:30:01,169 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:30:01,216 [INFO] console: ⏱️ [2025-06-26 14:29] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 14:30:01,216 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:31:00,724 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:31:01,308 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:31:01,311 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:31:01,362 [INFO] console: ⏱️ [2025-06-26 14:30] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 14:31:01,362 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:32:01,436 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:32:01,528 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:32:01,528 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:32:01,568 [INFO] console: ⏱️ [2025-06-26 14:31] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 14:32:01,569 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:33:01,076 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:33:01,164 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:33:01,164 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:33:01,205 [INFO] console: ⏱️ [2025-06-26 14:32] 📈 Prediction: LONG (Confidence: 0.77)
+2025-06-26 14:33:01,205 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:34:01,794 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:34:01,876 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:34:01,876 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:34:01,914 [INFO] console: ⏱️ [2025-06-26 14:33] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 14:34:01,915 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:35:01,307 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:35:01,385 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:35:01,386 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:35:01,422 [INFO] console: ⏱️ [2025-06-26 14:34] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 14:35:01,423 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:36:01,407 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:36:01,500 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:36:01,500 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:36:01,541 [INFO] console: ⏱️ [2025-06-26 14:35] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 14:36:01,541 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:37:01,016 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:37:01,671 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:37:01,671 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:37:01,711 [INFO] console: ⏱️ [2025-06-26 14:36] 📈 Prediction: LONG (Confidence: 0.71)
+2025-06-26 14:37:01,712 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:38:01,154 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:38:01,236 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:38:01,236 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:38:01,270 [INFO] console: ⏱️ [2025-06-26 14:37] 📈 Prediction: LONG (Confidence: 0.77)
+2025-06-26 14:38:01,270 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:39:01,101 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:39:01,265 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:39:01,265 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:39:01,344 [INFO] console: ⏱️ [2025-06-26 14:38] 📈 Prediction: LONG (Confidence: 0.76)
+2025-06-26 14:39:01,345 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:40:00,728 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:40:00,814 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:40:00,814 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:40:00,856 [INFO] console: ⏱️ [2025-06-26 14:39] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 14:40:00,856 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:41:01,329 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:41:01,466 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:41:01,466 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:41:01,506 [INFO] console: ⏱️ [2025-06-26 14:40] 📈 Prediction: LONG (Confidence: 0.59)
+2025-06-26 14:41:01,506 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:42:00,951 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:42:01,047 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:42:01,047 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:42:01,083 [INFO] console: ⏱️ [2025-06-26 14:41] 📈 Prediction: LONG (Confidence: 0.63)
+2025-06-26 14:42:01,083 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:43:00,545 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:43:00,650 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:43:00,650 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:43:00,684 [INFO] console: ⏱️ [2025-06-26 14:42] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 14:43:00,684 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:44:01,582 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:44:01,686 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:44:01,686 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:44:01,721 [INFO] console: ⏱️ [2025-06-26 14:43] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 14:44:01,722 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:45:01,168 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:45:01,261 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:45:01,261 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:45:01,294 [INFO] console: ⏱️ [2025-06-26 14:44] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 14:45:01,295 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:46:00,753 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:46:00,838 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:46:00,838 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:46:00,871 [INFO] console: ⏱️ [2025-06-26 14:45] 📈 Prediction: LONG (Confidence: 0.70)
+2025-06-26 14:46:00,872 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:47:01,309 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:47:01,411 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:47:01,411 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:47:01,444 [INFO] console: ⏱️ [2025-06-26 14:46] 📈 Prediction: LONG (Confidence: 0.57)
+2025-06-26 14:47:01,444 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:48:00,916 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:48:01,019 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:48:01,019 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:48:01,052 [INFO] console: ⏱️ [2025-06-26 14:47] 📈 Prediction: LONG (Confidence: 0.61)
+2025-06-26 14:48:01,053 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:49:00,503 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:49:00,623 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:49:00,624 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:49:00,661 [INFO] console: ⏱️ [2025-06-26 14:48] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 14:49:00,661 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:50:01,070 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:50:01,152 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:50:01,152 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:50:01,191 [INFO] console: ⏱️ [2025-06-26 14:49] 📈 Prediction: LONG (Confidence: 0.76)
+2025-06-26 14:50:01,192 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:51:00,614 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:51:00,706 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:51:00,706 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:51:00,745 [INFO] console: ⏱️ [2025-06-26 14:50] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 14:51:00,745 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:52:01,203 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:52:01,301 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:52:01,301 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:52:01,335 [INFO] console: ⏱️ [2025-06-26 14:51] 📈 Prediction: LONG (Confidence: 0.67)
+2025-06-26 14:52:01,335 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:53:00,763 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:53:00,851 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:53:00,851 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:53:00,886 [INFO] console: ⏱️ [2025-06-26 14:52] 📈 Prediction: LONG (Confidence: 0.71)
+2025-06-26 14:53:00,887 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:54:01,353 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:54:01,452 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:54:01,452 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:54:01,492 [INFO] console: ⏱️ [2025-06-26 14:53] 📈 Prediction: LONG (Confidence: 0.70)
+2025-06-26 14:54:01,493 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:55:00,890 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:55:00,996 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:55:00,996 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:55:01,035 [INFO] console: ⏱️ [2025-06-26 14:54] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 14:55:01,035 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:56:00,526 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:56:00,630 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:56:00,630 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:56:00,664 [INFO] console: ⏱️ [2025-06-26 14:55] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 14:56:00,665 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:57:01,146 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:57:01,250 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:57:01,250 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:57:01,285 [INFO] console: ⏱️ [2025-06-26 14:56] 📈 Prediction: LONG (Confidence: 0.80)
+2025-06-26 14:57:01,285 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:58:00,771 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:58:00,876 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:58:00,876 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:58:00,911 [INFO] console: ⏱️ [2025-06-26 14:57] 📈 Prediction: LONG (Confidence: 0.79)
+2025-06-26 14:58:00,912 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 14:59:01,287 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 14:59:01,395 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 14:59:01,396 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 14:59:01,433 [INFO] console: ⏱️ [2025-06-26 14:58] 📈 Prediction: LONG (Confidence: 0.65)
+2025-06-26 14:59:01,433 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:00:00,914 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:00:01,013 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:00:01,013 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:00:01,051 [INFO] console: ⏱️ [2025-06-26 14:59] 📈 Prediction: LONG (Confidence: 0.72)
+2025-06-26 15:00:01,051 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:01:00,527 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:01:00,635 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:01:00,635 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:01:00,668 [INFO] console: ⏱️ [2025-06-26 15:00] 📈 Prediction: LONG (Confidence: 0.63)
+2025-06-26 15:01:00,669 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:02:01,144 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:02:01,245 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:02:01,245 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:02:01,280 [INFO] console: ⏱️ [2025-06-26 15:01] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 15:02:01,280 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:03:00,730 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:03:00,835 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:03:00,835 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:03:00,869 [INFO] console: ⏱️ [2025-06-26 15:02] 📈 Prediction: LONG (Confidence: 0.53)
+2025-06-26 15:03:00,870 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:04:01,337 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:04:01,438 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:04:01,438 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:04:01,472 [INFO] console: ⏱️ [2025-06-26 15:03] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 15:04:01,473 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:05:00,942 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:05:01,054 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:05:01,054 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:05:01,101 [INFO] console: ⏱️ [2025-06-26 15:04] 📈 Prediction: LONG (Confidence: 0.59)
+2025-06-26 15:05:01,102 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:06:00,529 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:06:00,615 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:06:00,615 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:06:00,654 [INFO] console: ⏱️ [2025-06-26 15:05] 📈 Prediction: LONG (Confidence: 0.62)
+2025-06-26 15:06:00,654 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:07:01,076 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:07:01,178 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:07:01,178 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:07:01,213 [INFO] console: ⏱️ [2025-06-26 15:06] 📈 Prediction: LONG (Confidence: 0.71)
+2025-06-26 15:07:01,213 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:08:00,671 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:08:00,768 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:08:00,768 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:08:00,804 [INFO] console: ⏱️ [2025-06-26 15:07] 📈 Prediction: LONG (Confidence: 0.73)
+2025-06-26 15:08:00,804 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:09:01,305 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:09:01,413 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:09:01,413 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:09:01,446 [INFO] console: ⏱️ [2025-06-26 15:08] 📈 Prediction: LONG (Confidence: 0.77)
+2025-06-26 15:09:01,447 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:10:00,877 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:10:00,984 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:10:00,984 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:10:01,018 [INFO] console: ⏱️ [2025-06-26 15:09] 📈 Prediction: LONG (Confidence: 0.87)
+2025-06-26 15:10:01,019 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:11:00,492 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:11:00,597 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:11:00,597 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:11:00,638 [INFO] console: ⏱️ [2025-06-26 15:10] 📈 Prediction: LONG (Confidence: 0.79)
+2025-06-26 15:11:00,638 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:12:01,110 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:12:01,213 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:12:01,213 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:12:01,248 [INFO] console: ⏱️ [2025-06-26 15:11] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 15:12:01,249 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:13:00,729 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:13:00,836 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:13:00,836 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:13:00,870 [INFO] console: ⏱️ [2025-06-26 15:12] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 15:13:00,870 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:14:01,314 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:14:01,447 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:14:01,447 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:14:01,490 [INFO] console: ⏱️ [2025-06-26 15:13] 📈 Prediction: LONG (Confidence: 0.75)
+2025-06-26 15:14:01,490 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:15:00,909 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:15:01,017 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:15:01,017 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:15:01,094 [INFO] console: ⏱️ [2025-06-26 15:14] 📈 Prediction: LONG (Confidence: 0.66)
+2025-06-26 15:15:01,094 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:16:00,711 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:16:00,816 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:16:00,816 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:16:00,849 [INFO] console: ⏱️ [2025-06-26 15:15] 📈 Prediction: LONG (Confidence: 0.76)
+2025-06-26 15:16:00,849 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:17:01,319 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:17:01,426 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:17:01,427 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:17:01,460 [INFO] console: ⏱️ [2025-06-26 15:16] 📈 Prediction: LONG (Confidence: 0.67)
+2025-06-26 15:17:01,460 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:18:00,930 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:18:01,036 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:18:01,036 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:18:01,075 [INFO] console: ⏱️ [2025-06-26 15:17] 📈 Prediction: SHORT (Confidence: 0.53)
+2025-06-26 15:18:01,075 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:19:00,491 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:19:00,602 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:19:00,602 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:19:00,636 [INFO] console: ⏱️ [2025-06-26 15:18] 📈 Prediction: LONG (Confidence: 0.70)
+2025-06-26 15:19:00,637 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:20:01,076 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:20:01,171 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:20:01,171 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:20:01,205 [INFO] console: ⏱️ [2025-06-26 15:19] 📈 Prediction: LONG (Confidence: 0.55)
+2025-06-26 15:20:01,205 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:21:00,615 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:21:00,729 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:21:00,729 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:21:00,769 [INFO] console: ⏱️ [2025-06-26 15:20] 📈 Prediction: LONG (Confidence: 0.77)
+2025-06-26 15:21:00,769 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:22:01,222 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:22:01,317 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:22:01,317 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:22:01,352 [INFO] console: ⏱️ [2025-06-26 15:21] 📈 Prediction: LONG (Confidence: 0.82)
+2025-06-26 15:22:01,353 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:22:36,379 [INFO] __main__: Shutting down trade_bot
+2025-06-26 15:22:46,368 [INFO] pipeline_loop: Starting pipeline loop
+2025-06-26 15:22:46,369 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-06-26 15:22:46,369 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-06-26 15:22:46,369 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-06-26 15:22:46,781 [INFO] feature_generator: No new bars to feature.
+2025-06-26 15:22:46,816 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 15:23:01,264 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:23:01,372 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:23:01,372 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:23:02,110 [INFO] console: ⏱️ [2025-06-26 15:22] 📈 Prediction: LONG (Confidence: 0.81)
+2025-06-26 15:23:02,110 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:24:00,569 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:24:00,672 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:24:00,672 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:24:00,710 [INFO] console: ⏱️ [2025-06-26 15:23] 📈 Prediction: LONG (Confidence: 0.68)
+2025-06-26 15:24:00,710 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:25:01,148 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:25:01,239 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:25:01,239 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:25:01,274 [INFO] console: ⏱️ [2025-06-26 15:24] 📈 Prediction: LONG (Confidence: 0.63)
+2025-06-26 15:25:01,274 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:26:00,763 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:26:00,873 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:26:00,873 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:26:00,909 [INFO] console: ⏱️ [2025-06-26 15:25] 📈 Prediction: LONG (Confidence: 0.82)
+2025-06-26 15:26:00,910 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:27:01,320 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:27:01,426 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:27:01,426 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:27:01,459 [INFO] console: ⏱️ [2025-06-26 15:26] 📈 Prediction: LONG (Confidence: 0.82)
+2025-06-26 15:27:01,459 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:28:00,925 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:28:01,032 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:28:01,032 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:28:01,068 [INFO] console: ⏱️ [2025-06-26 15:27] 📈 Prediction: LONG (Confidence: 0.74)
+2025-06-26 15:28:01,069 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:29:00,568 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:29:00,653 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:29:00,653 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:29:00,691 [INFO] console: ⏱️ [2025-06-26 15:28] 📈 Prediction: LONG (Confidence: 0.84)
+2025-06-26 15:29:00,692 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:30:01,233 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:30:01,351 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:30:01,351 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:30:01,385 [INFO] console: ⏱️ [2025-06-26 15:29] 📈 Prediction: LONG (Confidence: 0.64)
+2025-06-26 15:30:01,385 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:31:02,369 [INFO] feature_generator: No new bars to feature.
+2025-06-26 15:31:02,406 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 15:32:00,963 [INFO] data_fetch: Inserted 1 new bars into SQLite 'bars' table
+2025-06-26 15:32:01,068 [INFO] feature_generator: Inserted 1 new feature rows into SQLite 'features' table
+2025-06-26 15:32:01,068 [INFO] console: ✅ Inserted 1 feature rows
+2025-06-26 15:32:01,104 [INFO] console: ⏱️ [2025-06-26 15:30] 📈 Prediction: LONG (Confidence: 0.79)
+2025-06-26 15:32:01,104 [INFO] predictor: Inserted 1 new predictions into 'predictions' table
+2025-06-26 15:33:00,663 [INFO] feature_generator: No new bars to feature.
+2025-06-26 15:33:00,696 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 15:33:23,322 [INFO] __main__: Shutting down trade_bot
+2025-06-26 15:33:38,445 [INFO] pipeline_loop: Starting pipeline loop
+2025-06-26 15:33:38,445 [INFO] entry_loop: Starting entry loop (60s cadence)
+2025-06-26 15:33:38,445 [INFO] exit_loop: Starting exit loop (5s cadence)
+2025-06-26 15:33:38,446 [INFO] heartbeat_loop: Starting heartbeat loop
+2025-06-26 15:33:39,130 [INFO] feature_generator: No new bars to feature.
+2025-06-26 15:33:39,165 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 15:34:00,748 [INFO] feature_generator: No new bars to feature.
+2025-06-26 15:34:00,782 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 15:35:01,316 [INFO] feature_generator: No new bars to feature.
+2025-06-26 15:35:01,350 [INFO] predictor: No new feature rows to predict on.
+2025-06-26 15:35:07,646 [INFO] __main__: Shutting down trade_bot

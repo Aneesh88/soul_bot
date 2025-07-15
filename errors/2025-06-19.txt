@@ -1,0 +1,1609 @@
+2025-06-19 08:37:44,287 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-19 09:09:13,665 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-19 09:10:01,351 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-19 09:11:01,128 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-19 09:12:01,303 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-19 09:13:01,108 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-19 09:14:01,095 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-19 09:15:00,871 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JUNFUT'}
+2025-06-19 12:53:27,667 [ERROR] true_data_utils: Attempt 1 fetch failed: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A22%3A57&to=250619T12%3A52%3A57&interval=1min&response=csv
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 64, in fetch_latest_ohlcv
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A22%3A57&to=250619T12%3A52%3A57&interval=1min&response=csv
+2025-06-19 12:54:01,301 [ERROR] true_data_utils: Attempt 1 fetch failed: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A23%3A31&to=250619T12%3A53%3A31&interval=1min&response=csv
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 64, in fetch_latest_ohlcv
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A23%3A31&to=250619T12%3A53%3A31&interval=1min&response=csv
+2025-06-19 12:54:01,884 [ERROR] true_data_utils: Attempt 1 fetch failed: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A23%3A31&to=250619T12%3A53%3A31&interval=1min&response=csv
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 64, in fetch_latest_ohlcv
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A23%3A31&to=250619T12%3A53%3A31&interval=1min&response=csv
+2025-06-19 12:54:58,411 [ERROR] true_data_utils: Attempt 2 fetch failed: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A24%3A28&to=250619T12%3A54%3A28&interval=1min&response=csv
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 64, in fetch_latest_ohlcv
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A24%3A28&to=250619T12%3A54%3A28&interval=1min&response=csv
+2025-06-19 12:58:21,724 [ERROR] true_data_utils: Attempt 1 fetch failed: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A27%3A49&to=250619T12%3A57%3A49&interval=1min&response=csv
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 64, in fetch_latest_ohlcv
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A27%3A49&to=250619T12%3A57%3A49&interval=1min&response=csv
+2025-06-19 12:58:26,967 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 12:58:32,174 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 12:58:32,175 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 12:59:39,089 [ERROR] true_data_utils: Attempt 1 fetch failed: 502 Server Error: Bad Gateway for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A29%3A06&to=250619T12%3A59%3A06&interval=1min&response=csv
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 64, in fetch_latest_ohlcv
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 502 Server Error: Bad Gateway for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A29%3A06&to=250619T12%3A59%3A06&interval=1min&response=csv
+2025-06-19 12:59:42,249 [ERROR] true_data_utils: Attempt 1 fetch failed: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A29%3A12&to=250619T12%3A59%3A12&interval=1min&response=csv
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 64, in fetch_latest_ohlcv
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A29%3A12&to=250619T12%3A59%3A12&interval=1min&response=csv
+2025-06-19 13:01:27,644 [ERROR] true_data_utils: getbars exhausted; falling back to getlastnbars
+2025-06-19 13:01:27,646 [ERROR] true_data_utils: getbars exhausted; falling back to getlastnbars
+2025-06-19 13:01:30,777 [ERROR] true_data_utils: All TrueData history attempts failed
+2025-06-19 13:01:30,777 [ERROR] true_data_utils: All TrueData history attempts failed
+2025-06-19 13:01:37,015 [ERROR] true_data_utils: getbars exhausted; falling back to getlastnbars
+2025-06-19 13:01:39,804 [ERROR] true_data_utils: getbars exhausted; falling back to getlastnbars
+2025-06-19 13:01:40,134 [ERROR] true_data_utils: All TrueData history attempts failed
+2025-06-19 13:01:42,925 [ERROR] true_data_utils: All TrueData history attempts failed
+2025-06-19 13:01:52,130 [ERROR] true_data_utils: getbars exhausted; falling back to getlastnbars
+2025-06-19 13:01:55,254 [ERROR] true_data_utils: All TrueData history attempts failed
+2025-06-19 13:02:04,096 [ERROR] true_data_utils: getbars exhausted; falling back to getlastnbars
+2025-06-19 13:02:04,165 [ERROR] true_data_utils: getbars exhausted; falling back to getlastnbars
+2025-06-19 13:02:05,214 [ERROR] true_data_utils: getbars exhausted; falling back to getlastnbars
+2025-06-19 13:05:30,722 [ERROR] true_data_utils: TrueData missing cols: {'Error fetchng data'}
+2025-06-19 13:05:32,297 [ERROR] true_data_utils: TrueData missing cols: {'Error fetchng data'}
+2025-06-19 13:05:34,574 [ERROR] true_data_utils: TrueData missing cols: {'Error fetchng data'}
+2025-06-19 13:06:10,816 [ERROR] true_data_utils: TrueData missing cols: {'Error fetchng data'}
+2025-06-19 13:06:30,999 [ERROR] true_data_utils: Attempt 1 fetch failed: 502 Server Error: Bad Gateway for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A36%3A01&to=250619T13%3A06%3A01&interval=1min&response=csv
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 64, in fetch_latest_ohlcv
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 502 Server Error: Bad Gateway for url: https://history.truedata.in/getbars?symbol=BANKNIFTY25JUNFUT&from=250619T10%3A36%3A01&to=250619T13%3A06%3A01&interval=1min&response=csv
+2025-06-19 13:06:31,727 [ERROR] true_data_utils: TrueData missing cols: {'Error fetchng data'}
+2025-06-19 13:06:36,202 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:06:41,380 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:06:41,382 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:06:46,022 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:06:51,198 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:06:56,385 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:06:56,387 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:07:00,722 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:01,806 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:02,420 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:05,921 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:07,006 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:07,611 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:11,098 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:11,100 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:07:12,176 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:12,177 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:07:12,804 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:12,805 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:07:18,782 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:23,979 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:29,178 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:29,179 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:07:35,141 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:07:40,339 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:08:35,463 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:08:40,646 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:08:45,834 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:08:45,836 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:08:51,881 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:08:57,055 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:00,522 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:01,433 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:02,253 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:02,254 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:09:05,725 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:06,655 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:08,203 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:10,936 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:10,938 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:09:11,853 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:11,855 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:09:13,421 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:18,611 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:18,613 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:09:24,574 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:29,791 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:34,986 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:09:34,987 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:12:00,688 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:01,585 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:05,229 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:05,893 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:06,789 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:10,432 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:11,133 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:11,134 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:12:11,962 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:11,964 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:12:15,620 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:15,621 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:12:21,576 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:26,815 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:34,577 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:34,588 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:39,839 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:39,840 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:44,557 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:45,090 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:45,091 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:12:45,123 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:45,124 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:12:49,812 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:51,147 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:55,058 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:12:55,060 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:12:56,401 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:00,539 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:01,709 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:01,709 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:13:02,082 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:05,781 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:07,327 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:07,887 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:11,057 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:11,059 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:13:12,606 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:12,607 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:13:13,139 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:18,540 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:18,542 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:13:25,085 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:30,340 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:35,617 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:35,619 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:13:41,863 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:47,110 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:52,342 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:13:52,343 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:13:58,430 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:00,462 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:01,755 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:03,661 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:05,705 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:06,996 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:08,909 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:08,911 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:14:10,964 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:10,966 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:14:12,259 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:12,261 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:14:14,946 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:20,235 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:25,475 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:25,477 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:14:31,543 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:36,814 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:42,048 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:42,052 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:14:48,240 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:53,475 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:58,770 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:14:58,773 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:15:00,358 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:01,202 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:04,839 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:05,615 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:06,471 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:10,085 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:10,888 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:10,890 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:15:11,743 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:11,745 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:15:34,339 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:34,359 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:34,665 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=Heartbeat%3A+2025-06-19+13%3A15%3A34&parse_mode=HTML
+2025-06-19 13:15:37,810 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:39,620 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:39,621 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:43,080 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:44,866 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:44,867 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:15:44,873 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:44,874 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:15:45,466 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Exit+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:15:48,353 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:48,355 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:15:48,938 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Entry+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:15:50,699 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:15:55,982 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:01,211 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:01,214 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:16:01,214 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:01,839 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Exit+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:16:02,186 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:06,449 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:07,115 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:07,442 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:11,678 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:11,679 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:16:12,373 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:12,662 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:12,664 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:16:13,280 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Entry+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:16:17,611 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:17,617 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:16:18,252 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Exit+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:16:23,474 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:28,708 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:33,964 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:33,966 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:16:34,563 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Exit+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:16:39,859 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:45,089 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:50,337 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:16:50,339 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:16:50,932 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Exit+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:16:56,209 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:01,061 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:01,481 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:01,545 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:06,326 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:06,724 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:06,724 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:17:06,772 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:07,303 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Exit+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:17:11,594 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:11,596 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:17:11,989 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:11,990 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:17:12,537 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:12,571 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Entry+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:17:17,807 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:23,054 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:23,058 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:17:23,673 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Exit+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:17:28,903 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:34,102 [ERROR] true_data_utils: Attempt 2 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:39,302 [ERROR] true_data_utils: Attempt 3 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+2025-06-19 13:17:39,302 [ERROR] true_data_utils: All TrueData fetch attempts failed
+2025-06-19 13:17:39,892 [ERROR] telegram: Failed to send Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botH7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU/sendMessage?chat_id=6468675993&text=%E2%9A%A0%EF%B8%8F+Exit+skipped+%E2%80%93+cannot+fetch+futures+index+price&parse_mode=HTML
+2025-06-19 13:17:45,162 [ERROR] true_data_utils: Attempt 1 fetch failed: 404 Client Error: Not Found for url: https://auth.truedata.in/token
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 44, in fetch_latest_ohlcv
+    token = get_token()
+  File "/Users/aneeshviswanathan/Desktop/Updated_om_babaji_om /true_data_utils.py", line 30, in get_token
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/requests/models.py", line 943, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://auth.truedata.in/token

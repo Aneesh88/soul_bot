@@ -1,0 +1,36 @@
+===== Trade Simulation Report =====
+Period: 2025-07-08 to 2025-07-08
+
+===== Settings Used =====
+LONG_TH               = 0.85
+SHORT_TH              = 0.85
+MAX_CONCURRENT_TRADES = 60
+MAX_DAILY_TRADES      = 70
+ENTRY_START           = 09:15
+ENTRY_END             = 14:25
+FORCED_EXIT           = 15:13
+FIXED_PROFIT_BOOKING  = 50
+FIXED_STOP_LOSS       = 160
+EXIT_SHORT_CONFIDENCE = 0.51
+EXIT_LONG_CONFIDENCE  = 0.51
+
+===== Daily Report =====
+            trades  win_rate  total_pl
+date                                  
+2025-07-08       3       0.0    -193.0
+
+===== Weekly Report =====
+      trades  win_rate  total_pl
+week                            
+28         3       0.0    -193.0
+
+===== Monthly Report =====
+         trades  win_rate  total_pl
+month                              
+2025-07       3       0.0    -193.0
+
+===== Overall Summary =====
+Period: 2025-07-08 to 2025-07-08
+Total Trades: 3
+Win Rate: 0.0
+Total P/L: -192.99999999999272

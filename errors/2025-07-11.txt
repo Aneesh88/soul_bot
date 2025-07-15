@@ -1,0 +1,395 @@
+2025-07-11 09:15:23,781 [ERROR] true_data_utils: TrueData missing cols: {'No data exists for BANKNIFTY25JULFUT'}
+2025-07-11 09:43:05,677 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:43:28,465 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:43:33,918 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:43:39,365 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:43:46,418 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:43:51,944 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:43:57,401 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:02,821 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:08,299 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:13,736 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:19,286 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:24,782 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:30,237 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:35,717 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:41,187 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:46,725 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:52,224 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:44:57,620 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:45:03,045 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:45:08,521 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:45:14,011 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:45:19,472 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:45:24,913 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:45:30,371 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 329, in exit_manager
+    strike      = tr['strike']
+                  ~~^^^^^^^^^^
+KeyError: 'strike'
+2025-07-11 09:46:50,835 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:46:51,876 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:46:58,333 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:46:59,337 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:47:05,772 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:47:06,873 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:47:13,374 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:47:14,429 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:47:21,448 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:47:22,452 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:54:39,642 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:54:40,696 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:54:47,133 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:54:48,152 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:58:01,813 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 09:58:02,813 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Resource not available'}
+2025-07-11 10:52:05,540 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 10:52:12,154 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 10:52:18,819 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 10:52:25,479 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 10:52:32,128 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 10:52:38,726 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 10:52:45,330 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 10:52:52,041 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 10:52:58,614 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 10:53:06,131 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 10:53:12,719 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 11:28:22,924 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:28:28,372 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:28:33,854 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:28:39,308 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:28:44,780 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:28:50,496 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:28:55,899 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:29:01,284 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:29:06,722 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:29:12,103 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:29:17,546 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:29:23,038 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if not prediction_row:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 11:29:28,499 [ERROR] trade_manager: exit_manager error
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_manager.py", line 321, in exit_manager
+    res = strat(
+        trade         = tr,
+    ...<2 lines>...
+        now_time      = now_time
+    )
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/exit_strategies.py", line 38, in exit_on_prediction_confidence
+    if prediction_row is None or prediction_row.empty:
+           ^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-11 12:39:01,837 [ERROR] pipeline_loop: pipeline_loop: predictor_cycle failed
+Traceback (most recent call last):
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/trade_bot.py", line 96, in pipeline_loop
+    fn()
+    ~~^^
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/predictor.py", line 102, in predictor_cycle
+    entry_smoothed_long = weighted_smoothing(long_series, TradeConfig.ENTRY_SMOOTHING_WINDOW)
+  File "/Users/aneeshviswanathan/Desktop/Om_Babaji_Om_threshold/predictor.py", line 23, in weighted_smoothing
+    weights = np.arange(1, window + 1)
+                           ~~~~~~~^~~
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'int'
+2025-07-11 15:13:07,528 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 15:13:14,353 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 15:13:21,021 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}
+2025-07-11 15:13:27,705 [ERROR] broker_utils: SELL order failed, response={'Success': None, 'Status': 500, 'Error': 'Available Futures and Options Limit is insufficient to cover the trade value: '}

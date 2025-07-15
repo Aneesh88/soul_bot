@@ -1,0 +1,1 @@
+trade_number,timestamp,entry_time,exit_time,entry_order_id,exit_order_id,direction,confidence,instrument,quantity,entry_index_price,exit_index_price,index_pnl,entry_price_option,exit_price_option,option_pnl,exit_reason,status,fut_index_sl_level,fut_index_tp_level,strike,raw_confidence
