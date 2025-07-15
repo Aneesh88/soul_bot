@@ -1,1 +1,4 @@
 core_files/trading_data.db
+errors/
+sm_reports/
+terminal_messages/
