@@ -56,8 +56,8 @@ class TradeConfig:
     ORDER_QUANTITY:      int = 35
 
     # --- TrueData API credentials ---
-    TD_USER:             str = "tdwsp674"
-    TD_PASS:             str = "aneesh@674"
+    TD_USER:             str = "t========4"
+    TD_PASS:             str = "a=========4"
     TD_SYMBOL:           str = "BANKNIFTY25JULFUT"
     TD_INTERVAL:         str = "1min"
     TD_EXPIRY:           str = "2025-07-31"
@@ -65,14 +65,14 @@ class TradeConfig:
     TRUE_DATA_RETRY_DELAY:  int = 5
 
     # --- ICICI Breeze API credentials ---
-    BREEZE_KEY:    str = "55aW3D7Q29_8124(1Z2640_x66I82@02"
-    BREEZE_SECRET: str = "u6385U69mpR341E29@0882255wO851S1"
-    BREEZE_TOKEN:  str = "52218364"
+    BREEZE_KEY:    str = "58=========================02"
+    BREEZE_SECRET: str = "u===================S1"
+    BREEZE_TOKEN:  str = "5============64"
     BREEZE_EXPIRY: str = "2025-07-31T06:00:00.000Z"
 
     # === Telegram ===
-    TELEGRAM_TOKEN:   str = "7325593988:AAGEeA3L01rmfHqFZ38cF070G1WOTkv-8JU"
-    TELEGRAM_CHAT_ID: str = "6468675993"
+    TELEGRAM_TOKEN:   str = "7================================U"
+    TELEGRAM_CHAT_ID: str = "6===============3"
 
     # === Miscellaneous ===
     USE_SQUARE_OFF: bool = True
